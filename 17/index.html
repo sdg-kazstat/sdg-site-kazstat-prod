@@ -1,6 +1,31 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
     <head>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+        <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.forEach%2CString.prototype.includes"></script>
+
+        <script>
+// This is where we initialise any global variables, namespaced in "opensdg".
+var opensdg = {
+
+  // A base URL for asynchronous calls to SDG data.
+  remoteDataBaseUrl: 'https://sdg-kazstat.github.io/sdg-data-kazstat-prod',
+
+  // A hook which can be replaced to modify the configuration for Chart.js.
+  // To see where this is used, see indicatorView.js createPlot() and updatePlot().
+  // To see an example of replacing it, see binary.html.
+  chartConfigAlter: function(config) {
+    // Alterations go here.
+    return config;
+  },
+};
+
+// For backwards compatibility, some of these might need to be global.
+// @TODO: Remove these eventually.
+var remoteDataBaseUrl = opensdg.remoteDataBaseUrl;
+
+</script>
+
         <script>
 // JavaScript container for translation data.
 var translations = {
@@ -46,7 +71,6 @@ var translations = {
 };
 </script>
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
         <!-- Basic Page Needs
         ================================================== -->
         <meta charset="utf-8">
@@ -80,10 +104,10 @@ var translations = {
         
 
         
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css">
-        <link rel="stylesheet" href="/assets/css/default.css?v=20190606103412">
+        <link rel="stylesheet" href="/assets/css/default.css?v=20190607104745">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -91,7 +115,7 @@ var translations = {
         <link rel="stylesheet" href="https://cdn.rawgit.com/socib/Leaflet.TimeDimension/master/dist/leaflet.timedimension.control.min.css" />
         <link rel="stylesheet" href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css' />
         <link rel="stylesheet" href="https://bowercdn.net/c/leaflet.zoomhome-latest/dist/leaflet.zoomhome.css" />
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-search@2.9.7/dist/leaflet-search.min.css"><link rel="stylesheet" href="/assets/css/custom.css?v=20190606103412"></head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-search@2.9.7/dist/leaflet-search.min.css"><link rel="stylesheet" href="/assets/css/custom.css?v=20190607104745"></head>
 <body class="language-kz">
 <!-- <div class="container"> -->
 
@@ -185,7 +209,6 @@ var translations = {
 <div id="main-content" class="container goal-indicators goal-17">
 
   
-
   <ol class="breadcrumb">
   <li><a href="/">Басты бет</a></li>
   
@@ -195,9 +218,12 @@ var translations = {
 
   
   
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -211,15 +237,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Көздер бойынша бөліністегі ЖІӨ-ге пайыздық қатынастағы мемлекеттік кірістердің жалпы көлемі
+            Total government revenue as a proportion of GDP, by source
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -233,15 +262,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-             Ішкі салықтармен қаржыландырылатын ұлттық бюджет үлесі 
+            Proportion of domestic budget funded by domestic taxes
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -255,15 +287,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Донорлардың – ЭЫДҰ дамуына Комитеті мүшелерінің жалпы ұлттық табысына пайыздық қатынастағы даму мақсатындағы ресми көмектің (жиынтық, сондай-ақ аз дамыған елдерге бөлінетін) таза көлемі 
+            Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -277,15 +312,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Тікелей шетел инвестициялары (ТШИ), ұлттық жиынтық бюджетке пайыздық қатынастағы дамыту мақсатында ресми көмек беру және Оңтүстік-Оңтүстік ынтымақтастығы
+            Foreign direct investments (FDI), official development assistance and South-South Cooperation as a proportion of total domestic budget
             
           </a>
         </div>
     </div>
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -299,15 +337,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-             ЖІӨ-ге пайыздық қатынастағы аудару көлемдері (АҚШ долларында) 
+            Volume of remittances (in United States dollars) as a proportion of total GDP
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -321,15 +362,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-             ЖІӨ-ге пайыздық қатынастағы мемлекеттік борышқа қызмет көрсету шығындары (алдыңғы редакция: тауарлар мен қызметтер экспортына)
+            Debt service as a proportion of exports of goods and services
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -343,15 +387,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-             Аз дамыған елдердің мүдделерінде инвестицияларды қолдану тәртіптері қабылданған және қолданылатын елдер саны
+            Number of countries that adopt and implement investment promotion regimes for least developed countries
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -365,15 +412,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Ынтымақтастық түрлерінің бөлінісіндегі елдер арасындағы келісімдер мен ғылыми және/немесе техникалық ынтымақтастық бағдарламаларының саны
+            Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation
             
           </a>
         </div>
     </div>
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -387,15 +437,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Кең жолақты Ғаламтордың стандартты абоненттерінің саны, жылдамдық бойынша топтастыру 
+            Fixed Internet broadband subscriptions per 100 inhabitants, by speed
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -409,15 +462,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Экологиялық қауіпсіз технологияларды әзірлеу, тапсыру, тарату және меңгеруге жәрдемдесу мақсатында дамушы елдерге бекітілген қаржыландырудың жалпы сомасы 
+            Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -431,15 +487,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Интернетті пайдаланатын халық үлесі 
+            Proportion of individuals using the Internet
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -453,15 +512,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Дамушы елдерге қаржылық және техникалық көмектің долларлық көлемі (соның ішінде Солтүстік-Оңтүстік, Оңтүстік-Оңтүстік және үш жақты ынтымақтастық аясында көрсетілетін көмек)
+            Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries
             
           </a>
         </div>
     </div>
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -475,15 +537,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Тарифтердің әлемдік орташа салмақталған деңгейі 
+            Worldwide weighted tariff-average
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -497,15 +562,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Әлемдік экспорттағы дамушы елдердің және аз дамыған елдердің үлесі 
+            Developing countries’ and least developed countries’ share of global exports
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -519,15 +587,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Дамушы елдерге, аз дамыған елдерге және шағын аралдық дамушы мемлекеттерге қатысты қолданылатын тарифтердің орташа деңгейі 
+            Average tariffs faced by developing countries, least developed countries and small island developing States
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -541,15 +612,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Макроэкономикалық көрсеткіштер панелі
+            Macroeconomic Dashboard
             
           </a>
         </div>
     </div>
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -563,15 +637,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Тұрақты даму саласында саясаттың келісушілігін көтеруге арналған механизмдер
+            Number of countries with mechanisms in place to enhance policy coherence of sustainable development
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -585,15 +662,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Даму мақсатында елдер дайындаған нәтижелердің болжамды тізбелері мен ынтымақтастық процесінде қатысушылардың жоспарлау құралдары пайдалану ауқымдары 
+            Extent of use of country-owned results frameworks and planning tools by providers of development cooperation
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -607,15 +687,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Тұрақты даму мақсаттарына жетудегі демеуші болып табылатын көптеген мүдделі тараптардың қатысуымен даму тиімділігін бақылау механзмдерін қолдану ісіндегі прогресс туралы хабарлайтын елдер саны 
+            Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -629,15 +712,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Мемлекеттік-жеке серіктестіктер мен азаматтық қоғам ұйымдарының серіктестіктеріне бөлінетін сома (АҚШ долларында)
+            Amount of United States dollars committed to public-private and civil society partnerships
             
           </a>
         </div>
     </div>
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -651,15 +737,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Ұлттық деңгейде әзірленген, Ресми стастистиканың негізін қалайтын қағидаттарына сәйкес келетін тиісті белгілер бойынша толық дезагрегатталған тұрақты даму көрсеткіштерінің үлесі
+            Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -673,15 +762,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Ресми статистиканың негізін қалайтын қағидаттарға сәйкес келетін ұлттық статистикалық заңнамасы бар елдер саны 
+            Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -695,15 +787,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Қаржыландыру көздері бойынша бөлінісіндегі толығымен қаржыландырылған және ұлттық статистикалық жоспарды жүзеге асыратын елдер саны 
+            Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding
             
           </a>
         </div>
     
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -717,15 +812,18 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Статистика саласындағы дамушы елдердің әлеуетін арттыруға бөлінген барлық ресурстардың долларлық құны
+            Dollar value of all resources made available to strengthen statistical capacity in developing countries
             
           </a>
         </div>
     </div>
     
+
     
-    
-    
+      
+      
+      
+      
     
     
     
@@ -739,7 +837,7 @@ var translations = {
                 Дереккөздерін зерттеу
               </span>
             </span>
-            Соңғы 10 жыл ішінде кем дегенде бір халық және тұрғын қорының санағын өткізген және b) оқиғалардың 100 пайызында тууды тіркеу және олардың 80 пайызында өлімді тіркеу мақсаттарына жеткен елдер үлесі 
+            Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration
             
           </a>
         </div>
@@ -754,16 +852,18 @@ var translations = {
 <footer role="contentinfo">
   <div class="container">
     <div class="row">
-      <div class="col-xs-9">
-        <a href="mailto:test@example.com">Бізбен хабарласыңыз</a>
-        
-          | <a href="https://facebook.com/statgov.kz" target="_blank">
-              @statgov.kz
-            </a>
-        
-      </div>
-      <div class="col-xs-3 text-right">
-        <a href="/faq/">Жиі қойылатын сұрақтар</a> | <a href="/about/cookies-and-privacy/">Cookies</a>
+      <div class="col-xs-12">
+        <div id="footerLinks">
+          <ul>
+            <li><a href="mailto:test@example.com">Бізбен хабарласыңыз</a></li>
+            
+            
+            <li><a href="https://facebook.com/statgov.kz" target="_blank">@statgov.kz</a></li>
+            
+            <li><a href="/faq/">Жиі қойылатын сұрақтар</a></li>
+            <li><a href="/about/cookies-and-privacy/">Cookies</a></li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
@@ -776,7 +876,7 @@ var translations = {
 <!-- /.container </div> -->
 <script src="//code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <script src="//cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
 <script src="//cdn.datatables.net/1.10.16/js/dataTables.bootstrap.min.js"></script>
 <script src="//cdn.datatables.net/fixedcolumns/3.2.3/js/dataTables.fixedColumns.min.js"></script>
@@ -791,10 +891,8 @@ var translations = {
 <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
 <script src="https://bowercdn.net/c/leaflet.zoomhome-latest/dist/leaflet.zoomhome.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/leaflet-search@2.9.7/dist/leaflet-search.min.js"></script>
-<script>
-  var remoteDataBaseUrl = 'https://sdg-kazstat.github.io/sdg-data-kazstat-prod';
-</script>
-<script src='/assets/js/sdg.js?v=20190606103412'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js"></script>
+<script src='/assets/js/sdg.js?v=20190607104745'></script>
 <script>
 $(function() {
     if($('#indicatorData').length) {
@@ -805,7 +903,7 @@ $(function() {
       });
 
       $.ajax({
-        url: 'https://sdg-kazstat.github.io/sdg-data-kazstat-prod/comb/' + domData.id + '.json',
+        url: opensdg.remoteDataBaseUrl + '/comb/' + domData.id + '.json',
         success: function(res) {
 
           $('.async-loading').remove();
@@ -825,7 +923,8 @@ $(function() {
             geographicalArea: domData.geographicalarea,
             showData: domData.showdata,
             footnote: domData.footnote,
-            graphType: domData.graphtype
+            graphType: domData.graphtype,
+            startValues: domData.startvalues
           }),
           view  = new indicatorView(model, {
             rootElement: '#indicatorData',

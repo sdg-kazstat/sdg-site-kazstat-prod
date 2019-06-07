@@ -4,98 +4,98 @@
       "title": "Кедейлікті оның барлық нысандарында жаппай жою",
       "indicators": [{
           "id": "1-5-4",
-          "title": "Апаттардың қаупін төмендетудің ұлттық стратегияларына сәйкес жергілікті апаттар қаупін төмендету стратегияларын қабылдған және жүзеге асырған жергілікті билік органдарының үлесі",
+          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/1-5-4",
           "status": "notstarted"
         },{
           "id": "1-4-2",
-          "title": "Жынысы және жерді иелену нысандары бойынша бөлінісіндегі заңмен мойындалған құжаттармен расталған жер иеленудің кепілді құқықтарын иеленуші және өзінің жерге деген құқықтарын кепілдендірілген деп есептейтін ересек халықтың бірлескен үлесі.",
+          "title": "Proportion of total adult population with secure tenure rights to land, with legally recognized documentation and who perceive their rights to land as secure, by sex and by type of tenure",
           "description": "",
           "keywords": "",
           "href": "/1-4-2",
           "status": "notstarted"
         },{
           "id": "1-a-3",
-          "title": "ЖІӨ-ге пайыздық қатынаста субсидиялардың және қайыршылық ауқымдарын қысқарту бағдарламаларына тікелей бөлінетін, берешек туындатпайтын қаржат ағынының жиынтық көлемі.",
+          "title": "Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP",
           "description": "",
           "keywords": "",
           "href": "/1-a-3",
           "status": "notstarted"
         },{
           "id": "1-4-1",
-          "title": "Негізгі қызметтерге қол жеткізуі бар үй шаруашылығында өмір сүретін халық үлесі",
+          "title": "Proportion of population living in households with access to basic services",
           "description": "",
           "keywords": "",
           "href": "/1-4-1",
           "status": "notstarted"
         },{
           "id": "1-3-1",
-          "title": "Балаларды, жұмыссыздарды, қарттарды, мүгедектерді, жүкті әйелдерді, жаңа туған нәрестелерді, еңбек жарақатын алған және кедей әрі қауқарсыздарды бөлумен, жынысы бойынша бөлінісінде әлеуметтік қорғаудың ең төменгі деңгейімен/ жүйесімен қамтылатын халық үлесі",
+          "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
           "description": "",
           "keywords": "",
           "href": "/1-3-1",
           "status": "notstarted"
         },{
           "id": "1-5-3",
-          "title": "2015-2030 жылдарға арналған апаттардың пайда болу қаупін төмендету бойынша Сендай негіздемелік бағдарламасына сәйкес апаттардың қаупін төмендетудің  ұлттық стратегияларын қабылдаған және жүзеге асырушы елдер саны",
+          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030",
           "description": "",
           "keywords": "",
           "href": "/1-5-3",
           "status": "notstarted"
         },{
           "id": "1-2-1",
-          "title": "Жынысы және жасы бойынша бөлінісінеде  ресми кедейлік шегінен тыс өмір сүретін халық үлесі",
+          "title": "Proportion of population living below the national poverty line, by sex and age",
           "description": "",
           "keywords": "",
           "href": "/1-2-1",
           "status": "notstarted"
         },{
           "id": "1-1-1",
-          "title": "Жынысы, жасы, жұмыспен қамтылу мәртебесі және және тұрғылықты жері бойынша бөліністегі халықаралық кедейлік шегінен тыс өмір сүретін халық үлесі",
+          "title": "Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",
           "description": "",
           "keywords": "",
           "href": "/1-1-1",
           "status": "complete"
         },{
           "id": "1-5-1",
-          "title": "100 000 адамға тікелей апаттарда қаза болғандар, із-түссіз жоғалғандар және жарақат алғандар саны",
+          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (repeat of 1 and 13.1.1)",
           "description": "",
           "keywords": "",
           "href": "/1-5-1",
           "status": "notstarted"
         },{
           "id": "1-a-2",
-          "title": "Мемлекеттік шығыстардың жалпы сомасындағы негізгі қызметтерге  (білім беру, денсаулық сақтау және әлеуметтік қорғау) шығыстардың үлесі",
+          "title": "Proportion of total government spending on essential services (education, health and social protection)",
           "description": "",
           "keywords": "",
           "href": "/1-a-2",
           "status": "notstarted"
         },{
           "id": "1-5-2",
-          "title": "Әлемдік жалпы ішкі өнімге (ЖІӨ) пайыздық қатынастағы апаттан болған тікелей экономикалық шығасылар",
+          "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)",
           "description": "",
           "keywords": "",
           "href": "/1-5-2",
           "status": "notstarted"
         },{
           "id": "1-2-2",
-          "title": "Ұлттық анықтамаларға сәйкес кедейліктің барлық көріністерінде өмір сүретін еркектер, әйелдер және барлық жастағы балалар үлесі",
+          "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
           "description": "",
           "keywords": "",
           "href": "/1-2-2",
           "status": "notstarted"
         },{
           "id": "1-a-1",
-          "title": "Үкіметтің тікелей қайыршылық ауқымдарын қысқарту бойынша бағдарламаларға бөлген ресурстарының үлесі",
+          "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes",
           "description": "",
           "keywords": "",
           "href": "/1-a-1",
           "status": "notstarted"
         },{
           "id": "1-b-1",
-          "title": "Әйелдерге, кедейлерге және халықтың қауқарсыз топтарына ерекше пайда алып келетін секторлардағы ағымдағы және күрделі мемлекеттік шығыстардың үлесі",
+          "title": "Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups",
           "description": "",
           "keywords": "",
           "href": "/1-b-1",
@@ -108,91 +108,91 @@
       "title": "Аштықты жою, азық-түлік қауіпсіздігін қамтамасыз ету және тамақтануды жақсарту және ауыл шаруашылығын тұрақты дамытуға жәрдемдесу",
       "indicators": [{
           "id": "2-2-1",
-          "title": "Бес жасқа дейінгі балалардың бойының өсіуіндегі кідірістің таралуы (Дүниежүзілік денсаулық сақтау ұйымы (ДДСҰ) белгілеген балалардың өсу нормаларына сәйкес бала жасына медианалық бой көрсеткішінен орташа квадраттық ауытқу, <-2)",
+          "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age",
           "description": "",
           "keywords": "",
           "href": "/2-2-1",
           "status": "notstarted"
         },{
           "id": "2-1-2",
-          "title": "Бірқалыпты немесе өткір халықтық азық-түліктік қауіпсіздіктің болмауының деңгейі ('Азық-түліктік қауіпсіздіктің болмауын сезіну шәкілі' бойынша)",
+          "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
           "description": "",
           "keywords": "",
           "href": "/2-1-2",
           "status": "notstarted"
         },{
           "id": "2-2-2",
-          "title": "Түрлері бойынша  (жүдеу немесе семіру) бөлінісінде бес жасқа дейінгі балалар арасында толыққанды емес таамақтанудың таралуы(ДДСҰ белгілеген балалардың өсу нормаларына сәйкес бала жасына медианалық салмақ көрсеткішінен орташа квадраттық ауытқу, >+2 немесе <-2)",
+          "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
           "description": "",
           "keywords": "",
           "href": "/2-2-2",
           "status": "notstarted"
         },{
           "id": "2-a-2",
-          "title": "Ауыл шаруашылыққа ресми қаражаттың бірлескен ағыны (дамыту мақсатындағы ресми көмек және ресми қаражаттың басқа да ағындары)",
+          "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector",
           "description": "",
           "keywords": "",
           "href": "/2-a-2",
           "status": "notstarted"
         },{
           "id": "2-5-1",
-          "title": "Орташа мерзімді немесе ұзақ мерзімді арнайы сақтау объектілерінде сақталатын азық-түлік және ауылшаруашылығы өндірісіне арналғаншығу тегі өсімдік және зоологиялық болып табылатын генетикалық ресурстар саны",
+          "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium or long-term conservation facilities",
           "description": "",
           "keywords": "",
           "href": "/2-5-1",
           "status": "notstarted"
         },{
           "id": "2-c-1",
-          "title": "Азық-түлік нарығындағы баға ауытқушылығының көрсеткіші",
+          "title": "Indicator of food price anomalies",
           "description": "",
           "keywords": "",
           "href": "/2-c-1",
           "status": "notstarted"
         },{
           "id": "2-4-1",
-          "title": "Ауыл шаруашылығын жүргізудің өнімді және сарқылмайтын әдістері қолданылатын ауыл шаруашылық алқаптары алаңының үлесі",
+          "title": "Proportion of agricultural area under productive and sustainable agriculture",
           "description": "",
           "keywords": "",
           "href": "/2-4-1",
           "status": "notstarted"
         },{
           "id": "2-b-1",
-          "title": "Ауылшаруашылығы өнімдерінің экспортын субсидиялау",
+          "title": "Agricultural export subsidies",
           "description": "",
           "keywords": "",
           "href": "/2-b-1",
           "status": "notstarted"
         },{
           "id": "2-a-1",
-          "title": "Мемлекеттік шығыстар құрылымы бойынша анықталатын ауыл шаруашылыққа бейімделу индексі",
+          "title": "The agriculture orientation index for government expenditures",
           "description": "",
           "keywords": "",
           "href": "/2-a-1",
           "status": "notstarted"
         },{
           "id": "2-5-2",
-          "title": "Жоғалу қаупі бар: жоғалу қаупі жоқ; жоғалу қаупінің деңгейі белгісіз санаттарға жататын жануарлар түрлерінің үлесі",
+          "title": "Proportion of local breeds classified as being at risk, not-at-risk or at unknown level of risk of extinction",
           "description": "",
           "keywords": "",
           "href": "/2-5-2",
           "status": "notstarted"
         },{
           "id": "2-3-2",
-          "title": "Жынысы және байырғы халықтарға тиесілілік мәртебесі бойынша бөліністегі ұсақ азық-түлік өнімдерін өндірушілердің орташа табысы",
+          "title": "Average income of small-scale food producers, by sex and indigenous status",
           "description": "",
           "keywords": "",
           "href": "/2-3-2",
           "status": "notstarted"
         },{
           "id": "2-3-1",
-          "title": "Фермерлік шаруашылық/ мал шаруашылығы/ орман шаруашылығы кәсіпорындарының өлшемдерінің кластары бойынша бөлінісіндегі еңбек бірлігіне өндіріс көлемі.",
+          "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size",
           "description": "",
           "keywords": "",
           "href": "/2-3-1",
           "status": "notstarted"
         },{
           "id": "2-1-1",
-          "title": "Жеткілікті тамақтанбаудың таралуы",
+          "title": "Prevalence of undernourishment",
           "description": "",
           "keywords": "",
           "href": "/2-1-1",
@@ -205,189 +205,189 @@
       "title": "Салауатты өмір салтын қамтамасыз ету және кез келген жаста барлығының амандығына жәрдемдесу",
       "indicators": [{
           "id": "3-5-2",
-          "title": "Күнтізбелік жылына таза спирт литрі бойынша алкоголь тұтыну (15 жастан бастап жан басына шаққандағы алкоголь тұтынуының ұлттық ерекшеліктеріне сәйкес анықталады)",
+          "title": "Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
           "description": "",
           "keywords": "",
           "href": "/3-5-2",
           "status": "notstarted"
         },{
           "id": "3-7-1",
-          "title": "Отбасын жоспарлау бойынша қажеттіліктері заманауи әдістермен қанағаттандырылатын репродуктивті қабілетті жастағы әйелдер үлесі (15 жастан 49 жасқа дейін)",
+          "title": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods",
           "description": "",
           "keywords": "",
           "href": "/3-7-1",
           "status": "notstarted"
         },{
           "id": "3-9-1",
-          "title": "Тұрғын үй-жайлардағы ауаның және атмосфералық ауаның ластануынан өлім-жітім",
+          "title": "Mortality rate attributed to household and ambient air pollution",
           "description": "",
           "keywords": "",
           "href": "/3-9-1",
           "status": "notstarted"
         },{
           "id": "3-8-2",
-          "title": "Үй шаруашылығының шығындары немесе табыстарының жалпы көлемінде медициналық көмекке кететін отбасылық шығыстардың көп үлес салмағы мен халық үлесі",
+          "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income",
           "description": "",
           "keywords": "",
           "href": "/3-8-2",
           "status": "notstarted"
         },{
           "id": "3-c-1",
-          "title": "Бір адамға шаққандағы медициналық қзыметкерлер саны және оларды үйлестіру",
+          "title": "Health worker density and distribution",
           "description": "",
           "keywords": "",
           "href": "/3-c-1",
           "status": "notstarted"
         },{
           "id": "3-3-1",
-          "title": "100 000 мың адам бойынша жаңадан анықталған АИТВ мөлшері",
+          "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
           "description": "",
           "keywords": "",
           "href": "/3-3-1",
           "status": "notstarted"
         },{
           "id": "3-2-2",
-          "title": "Неонатальдық өлім-жетімінің коэффициенті",
+          "title": "Neonatal mortality rate",
           "description": "",
           "keywords": "",
           "href": "/3-2-2",
           "status": "notstarted"
         },{
           "id": "3-4-2",
-          "title": "Өзіне өзі қол жұмсаудан өлім-жітім",
+          "title": "Suicide mortality rate",
           "description": "",
           "keywords": "",
           "href": "/3-4-2",
           "status": "notstarted"
         },{
           "id": "3-5-1",
-          "title": "Психикалық белсенді заттарды тұтынудан болған сырқаттарды емдеу (дәрі-дәрмек, психикалық-әлеуметтік және сауықтыру қызметтері және әрі қарай күту бойынша қызметтер)",
+          "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",
           "description": "",
           "keywords": "",
           "href": "/3-5-1",
           "status": "notstarted"
         },{
           "id": "3-d-1",
-          "title": "Халықаралық медициналық-санитарлық ережелерді (ХМСЕ) сақтау қабілеттілігі және қоғамдық денсаулық сақтау саласындағы төтенше жағдайларға дайын болу",
+          "title": "International Health Regulations (IHR) capacity and health emergency preparedness",
           "description": "",
           "keywords": "",
           "href": "/3-d-1",
           "status": "notstarted"
         },{
           "id": "3-8-1",
-          "title": "Негізгі медициналық-санитарлық қызметтермен қамту       (репродуктивті денсаулықты сақтау, ана мен бала денсаулығын сақтау, жұқпалы ауруларды емдеу, жұқпалы емес ауруларды емдеу және қызметтердің халықтың кең ауқымына және анағұрлым қолайсыз жағдайдағы халық топтарына қолжетімділігі кіретін қадағаланатын үрдістер бойынша негізгі қызметтерді орташа қамту ретінде анықталады)",
+          "title": "Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)",
           "description": "",
           "keywords": "",
           "href": "/3-8-1",
           "status": "notstarted"
         },{
           "id": "3-b-1",
-          "title": "Ұлттық бағдарламаларға енген барлық вакциналармен иммундаумен қамтылған халықтың нысаналы тобының үлесі",
+          "title": "Proportion of the target population covered by all vaccines included in their national programme",
           "description": "",
           "keywords": "",
           "href": "/3-b-1",
           "status": "notstarted"
         },{
           "id": "3-3-4",
-          "title": "100 000 адам бойынша В гепатитімен ауыру",
+          "title": "Hepatitis B incidence per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/3-3-4",
           "status": "notstarted"
         },{
           "id": "3-b-3",
-          "title": "Үнемі негізгі қажетті және қолжетімді дәрілік заттары бар медициналық мекемелердің үлесі",
+          "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis",
           "description": "",
           "keywords": "",
           "href": "/3-b-3",
           "status": "notstarted"
         },{
           "id": "3-3-2",
-          "title": "100 000 адам бойынша туберкулезбен ауыру",
+          "title": "Tuberculosis incidence per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/3-3-2",
           "status": "notstarted"
         },{
           "id": "3-3-5",
-          "title": "Ұмытылған тропикалық аурулардан емделуді қажет ететін адамдар саны",
+          "title": "Number of people requiring interventions against neglected tropical diseases",
           "description": "",
           "keywords": "",
           "href": "/3-3-5",
           "status": "notstarted"
         },{
           "id": "3-7-2",
-          "title": "Берілген жас тобында 1,000 әйелге жасөспірім  арасында қыздар (10 бастап 14 жасқа дейінгі; 15 бастап 19 жасқа дейін) туу көрсеткіші",
+          "title": "Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group",
           "description": "",
           "keywords": "",
           "href": "/3-7-2",
           "status": "notstarted"
         },{
           "id": "3-6-1",
-          "title": "Жол-көлік оқиғаларының нәтижесіндегі өлім-жітім",
+          "title": "Death rate due to road traffic injuries",
           "description": "",
           "keywords": "",
           "href": "/3-6-1",
           "status": "notstarted"
         },{
           "id": "3-3-3",
-          "title": "100 000 адам бойынша безгекпен ауыру",
+          "title": "3.3.3 Malaria incidence per 1,000 population",
           "description": "",
           "keywords": "",
           "href": "/3-3-3",
           "status": "notstarted"
         },{
           "id": "3-2-1",
-          "title": "Бес жасқа дейінгі балалар өлім-жетімінің коэффициенті",
+          "title": "Under-five mortality rate",
           "description": "",
           "keywords": "",
           "href": "/3-2-1",
           "status": "notstarted"
         },{
           "id": "3-a-1",
-          "title": "15 жастан басталатын адамдардың темекі тұтынуының жас бойынша стандартты таралуы",
+          "title": "3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older",
           "description": "",
           "keywords": "",
           "href": "/3-a-1",
           "status": "notstarted"
         },{
           "id": "3-b-2",
-          "title": "Медициналық зерттеу және денсаулық сақтаудың негізгі салаларына бағытталған даму мақсатындағы ресми көмектің жалпы таза көлемі",
+          "title": "Total net official development assistance to medical research and basic health sectors",
           "description": "",
           "keywords": "",
           "href": "/3-b-2",
           "status": "notstarted"
         },{
           "id": "3-4-1",
-          "title": "Жүрек-қан тамырлары ауруларынан, қатерлі ісіктен, диабеттен, созылмалы респираторлық сырқаттардан өлім-жітім",
+          "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
           "description": "",
           "keywords": "",
           "href": "/3-4-1",
           "status": "notstarted"
         },{
           "id": "3-1-2",
-          "title": "Білікті медициналық қызметкерлердің босандыру үлесі",
+          "title": "Proportion of births attended by skilled health personnel",
           "description": "",
           "keywords": "",
           "href": "/3-1-2",
           "status": "notstarted"
         },{
           "id": "3-9-3",
-          "title": "Абайсыз уланудан өлім-жітім",
+          "title": "Mortality rate attributed to unintentional poisoning",
           "description": "",
           "keywords": "",
           "href": "/3-9-3",
           "status": "notstarted"
         },{
           "id": "3-1-1",
-          "title": "Ана өлім-жетімінің коэффициенті",
+          "title": "Maternal mortality ratio",
           "description": "",
           "keywords": "",
           "href": "/3-1-1",
           "status": "notstarted"
         },{
           "id": "3-9-2",
-          "title": "Қауіпсіз су, қауіпсіз санитария және гигиенаның болмауынан (барлығы үшін сумен қамсыздандыру, санитария және гигиена саласындағы қауіпсіз қызметтердің болмауынан (СҚСГ) өлім-жітім)",
+          "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",
           "description": "",
           "keywords": "",
           "href": "/3-9-2",
@@ -400,77 +400,77 @@
       "title": "Ауқымды және әділетті сапалы білім беруді қамтамасыз ету және барлығы үшін бүкіл өмір бойы оқу мүмкіндігін көтермелеу",
       "indicators": [{
           "id": "4-6-1",
-          "title": "Жынысы бойынша бөлінісіндегі осы жас тобындағы кем дегенде функционалды а) сауаттылықтың  b) математикалық сауаттылықтың белгіленген деңгейіне жеткен халық үлесі.  4.6.2. жастар мен ересектердің сауаттылық деңгейі. 4.6.3. Жастар мен ересектердің сауаттылық бағдарламаларына қатысу деңгейі",
+          "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",
           "description": "",
           "keywords": "",
           "href": "/4-6-1",
           "status": "notstarted"
         },{
           "id": "4-c-1",
-          "title": "Жұмысқа дейінгі немесе жұмыс барысында берілген елдегі тиісті деңгейде кем дегенде ең төменгі ұйымдастырылған кәсіби ұстаздық даярлықтан (мысалы, педагогикалық) өткен: а) мектепке дейінгі мекемелердегі; b) арн. жоғ. біл. бар бастауыш мектептегі мұғалімдерге салыстырмалы пайыз болады; 4с.2. с) төменгі және орта мектептегі; және d) жоғарғы орта мектептегі (салыстырмалы жалпы білім беру мамандығының үлесі болады) мұғалімдер үлесі",
+          "title": "Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
           "description": "",
           "keywords": "",
           "href": "/4-c-1",
           "status": "notstarted"
         },{
           "id": "4-1-1",
-          "title": "Балалар мен жастар үлесі: а) 2-ші/3-ші сыныптағы, b) бастауыш мектеп бітірушілері және с) жынысы бойынша бөлінісінде кем дегенде і) ең төменгі сауаттылыққа ие және іі) есептеу машығына ие орта мектеп бітірушілері",
+          "title": "Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",
           "description": "",
           "keywords": "",
           "href": "/4-1-1",
           "status": "notstarted"
         },{
           "id": "4-4-1",
-          "title": "Машық түрлері бойынша бөлінісіндегі ақпараттық коммуникациялық технологиялар саласында машықтанған жастар/ ересектер үлесі",
+          "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
           "description": "",
           "keywords": "",
           "href": "/4-4-1",
           "status": "notstarted"
         },{
           "id": "4-3-1",
-          "title": "Жынысы бойынша бөлінісінде соңғы 12 айда ересектердің және жастардың ресми және ресми емес оқыту және кәсіби даярлық түрлеріне қатысу деңгейі.",
+          "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
           "description": "",
           "keywords": "",
           "href": "/4-3-1",
           "status": "notstarted"
         },{
           "id": "4-a-1",
-          "title": "а) электр қуатымен; b) оқу мақсатында Интернет қызметтерімен; с) оқу мақсатындағы компьютерлермен; d) мүгедек оқушыларға бейімделген инфрақұрылым мен материалдармен; е) ауыз судың базалық көздерімен; f) ең қарапайым деңгейде қамсыздандырылған бөлек дәретханалармен; және g) қол жууға арналған базалық құралдармен (СҚСГ бастамасының көрсеткіштерінің анықтамасына сәйкес) қамсыздандырылған мектептер үлесі",
+          "title": "Proportion of schools with access to: (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)",
           "description": "",
           "keywords": "",
           "href": "/4-a-1",
           "status": "notstarted"
         },{
           "id": "4-5-1",
-          "title": "Осы тізбедегі білім беруге қатыстыдезагрегатталатын көрсеткіштерді құруға (әйелдер мен еркектердің, қалалық және ауылдық тұрғындардың, ауқаттылықтың жоғарғы және төменгі квантилі және басқа да топтардың, мысалы, мүгедектердің, байырғы тұрғындардың және мәліметтердің болуына байланысты жанжалға қатысы бар адамдардың) қатысты барлығы бойынша теңдік индекстері",
+          "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
           "description": "",
           "keywords": "",
           "href": "/4-5-1",
           "status": "notstarted"
         },{
           "id": "4-2-1",
-          "title": "Жынысы бойынша бөлінісінде денсаулық, оқыту және психологиялық-әлеуметтік қолайлылық тұрғысынан ауытқуларсыз дамып жатқан бес жасқа дейінгі балалардың үлесі",
+          "title": "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex",
           "description": "",
           "keywords": "",
           "href": "/4-2-1",
           "status": "notstarted"
         },{
           "id": "4-b-1",
-          "title": "Оқу бағдарламаларының секторлары мен түрлері бойынша бөлінісіндегі шәкіртақыларды төлеуге бағытталатын даму мақсатындағы ресми көмек көлемі",
+          "title": "Volume of official development assistance flows for scholarships by sector and type of study",
           "description": "",
           "keywords": "",
           "href": "/4-b-1",
           "status": "notstarted"
         },{
           "id": "4-2-2",
-          "title": "Жынысы бойынша бөлінісіндегі оқытудың ұйымдастырылған түрлеріне қатысу деңгейі (мектепке баратын ресми жасқа жеткенге дейін бір жыл ішінде)",
+          "title": "Participation rate in organized learning (one year before the official primary entry age), by sex",
           "description": "",
           "keywords": "",
           "href": "/4-2-2",
           "status": "notstarted"
         },{
           "id": "4-7-1",
-          "title": "і) дүниежүзілік азаматтылық рухында және іі) тұрақты даму насихатында тәрбиелеу мәртебесі, гендерлік теңдік пен барлық деңгейдегі адам құқықтарын қоса алғанда: а) білім беру саласындағы ұлттық саясат; b) оқу бағдарламаларында; с) мұғалімдерді даярлау бағдарламаларында; және d) білім алушыларды аттестациялау жүйесіндегі мәртебесі",
+          "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in: (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
           "description": "",
           "keywords": "",
           "href": "/4-7-1",
@@ -483,98 +483,98 @@
       "title": "Гендерлік теңдікті қамтамасыз ету және барлық әйелдер мен қыздардың құқықтары мен мүмкіндіктерін кеңейту",
       "indicators": [{
           "id": "5-6-1",
-          "title": "Сексуалдық қатынастар, жүктілікке қарсы құралдарды қолдану және репродуктивті денсаулықты қорғау бойынша көрсетілетін қызметтерге жүгіну туралы шешімдерді өздігінен ойланып қабылдайтын 15-тен 49 жасқа дейінгі әйелдер үлесі",
+          "title": "Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
           "description": "",
           "keywords": "",
           "href": "/5-6-1",
           "status": "notstarted"
         },{
           "id": "5-5-1",
-          "title": "Әйелдердің а) ұлттық парламенттерде және b) жергілікті билік органдарында алатын орындарының үлесі",
+          "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments",
           "description": "",
           "keywords": "",
           "href": "/5-5-1",
           "status": "notstarted"
         },{
           "id": "5-5-2",
-          "title": "Басшы лауазымдардағы әйелдер үлесі",
+          "title": "Proportion of women in managerial positions",
           "description": "",
           "keywords": "",
           "href": "/5-5-2",
           "status": "notstarted"
         },{
           "id": "5-2-1",
-          "title": "Мүгедектігі бар әйелдерді қоса алғанда, зорлық түрлері мен жасы бойынша бөлуде соңғы 12 айда қазіргі немесе бұрынғы интимдік серіктесі тарапынан физикалық, сексуалдық немесе психологиялық қысымға ұшыраған, бір кездері серіктесі болған әйелдер мен 15 жастан асқан қыздардың үлесі",
+          "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",
           "description": "",
           "keywords": "",
           "href": "/5-2-1",
           "status": "notstarted"
         },{
           "id": "5-6-2",
-          "title": "15 жастан асқан әйелдер мен ерлерге сексуалды және репродуктивті денсаулықты қорғау бойынша көрсетілетін қызметтер мен ақпаратқа және осы саладағы білімге кепілдік беретін заңдар мен нормативтік актілер әрекет ететін елдер саны",
+          "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",
           "description": "",
           "keywords": "",
           "href": "/5-6-2",
           "status": "notstarted"
         },{
           "id": "5-4-1",
-          "title": "Мүгедектігі бар әйелдерді қоса алғанда, жынысы, жасы және тұрғылықты жері бойынша бөлумен күтім жасау бойынша ақы төленбейтін еңбекке және үйдегі жұмысқа жұмсалатын уақыт үлесі",
+          "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location",
           "description": "",
           "keywords": "",
           "href": "/5-4-1",
           "status": "notstarted"
         },{
           "id": "5-a-2",
-          "title": "Құқықтық базасы (соның ішінде кәдімгі құқық) әйелдерге жерді иеленуге және/немесе басқаруға тең құқыққа кепілдік беретін елдер үлесі",
+          "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control",
           "description": "",
           "keywords": "",
           "href": "/5-a-2",
           "status": "notstarted"
         },{
           "id": "5-a-1",
-          "title": "a) Жынысы бойынша бөле отырып, ауыл шаруашылығымен айналысатын халықтың жалпы санында иелігінде ауыл шаруашылығы жерлері бар немесе оны пайдалануға кепілдендірілген құқығы бар адамдар үлесі және b) жер иелену құқығы бойынша бөле отырып, иелігінде ауыл шаруашылығы жерлері бар немесе оны иелену құқығын жүргізуші болып табылатын әйелдер үлесі",
+          "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",
           "description": "",
           "keywords": "",
           "href": "/5-a-1",
           "status": "notstarted"
         },{
           "id": "5-1-1",
-          "title": "Жыныс белгісі бойынша теңдікті және кемсітпеуді қолдау және қамтамасыз ету үшін нормативтік-құқықтық базаның болуы және АИТВ-мен ауыратын әйелдерді, мүгедектігі бар әйелдерді қоса алғанда осы саладағы жағдайды бақылау",
+          "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex",
           "description": "",
           "keywords": "",
           "href": "/5-1-1",
           "status": "notstarted"
         },{
           "id": "5-3-2",
-          "title": "Жасы бойынша бөлуде әйелдердің жыныс органдарына жарымжан ететін операцияларға/кесіп тастауға ұшыраған 15-тен 49 жасқа дейінгі қыздар мен әйелдердің үлесі",
+          "title": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age",
           "description": "",
           "keywords": "",
           "href": "/5-3-2",
           "status": "notstarted"
         },{
           "id": "5-c-1",
-          "title": "Гендерлік теңдікті және әйелдердің құқықтары мен мүмкіндіктерін кеңейтуді қамтамасыз етуге және олар туралы деректерді жариялауға жұмсалған мемлекеттен бөлінген қаржыны қадағалау механизмдері",
+          "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment",
           "description": "",
           "keywords": "",
           "href": "/5-c-1",
           "status": "notstarted"
         },{
           "id": "5-b-1",
-          "title": "Мүгедектігі бар әйелдерді қоса алғанда, жынысы бойынша бөлумен мобильді телефоны бар адамдар үлесі",
+          "title": "Proportion of individuals who own a mobile telephone, by sex",
           "description": "",
           "keywords": "",
           "href": "/5-b-1",
           "status": "notstarted"
         },{
           "id": "5-3-1",
-          "title": "Мүгедектігі бар әйелдерді қоса алғанда, 15 жасқа дейін және 18 жасқа дейін некеге немесе некелік одаққа тұрған 20-дан 24 жасқа дейінгі әйелдер үлесі",
+          "title": "Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18",
           "description": "",
           "keywords": "",
           "href": "/5-3-1",
           "status": "notstarted"
         },{
           "id": "5-2-2",
-          "title": "Мүгедектігі бар әйелдерді қоса алғанда, жасы мен оқиға орны бойынша бөлуде соңғы 12 айда интимдік серіктестерінен басқа әлдекім тарапынан сексуалдық зорлық көрсетуге ұшыраған әйелдер мен 15 жастан асқан қыздар үлесі",
+          "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",
           "description": "",
           "keywords": "",
           "href": "/5-2-2",
@@ -587,77 +587,77 @@
       "title": "Су ресурстары мен санитарияның барлығы үшін болуы мен тиімді пайдаланылуын қамтамасыз ету",
       "indicators": [{
           "id": "6-a-1",
-          "title": "Даму мақсатында шығыстардың үйлестірілетін мемлекеттік бағдарламасы шеңберінде сумен қамтуға және санитарияға бөлінген ресми көмек көлемі",
+          "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan",
           "description": "",
           "keywords": "",
           "href": "/6-a-1",
           "status": "notstarted"
         },{
           "id": "6-5-2",
-          "title": "Су пайдалану саласында ынтымақтастық туралы қолданыстағы уағдаластықпен қамтылған трансшекаралық су бассейндерінің үлесі",
+          "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation",
           "description": "",
           "keywords": "",
           "href": "/6-5-2",
           "status": "notstarted"
         },{
           "id": "6-b-1",
-          "title": "Су ресурстары мен санитарияны басқаруға азаматтардың қатысу қағидалары мен рәсімдері әрекет ететін жергілікті әкімшілік бірліктердің үлесі",
+          "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management",
           "description": "",
           "keywords": "",
           "href": "/6-b-1",
           "status": "notstarted"
         },{
           "id": "6-1-1",
-          "title": "Қауіпсіздік талаптарын сақтай отырып ұйымдастырылған сумен қамту қызметін пайдаланатын халықтың үлесі",
+          "title": "Proportion of population using safely managed drinking water services",
           "description": "",
           "keywords": "",
           "href": "/6-1-1",
           "status": "notstarted"
         },{
           "id": "6-2-1",
-          "title": "Сабынмен және сумен қол жууға арналған құрылғыларды қоса алғанда, қауіпсіздік талаптарын сақтаумен ұйымдастырылған санитария қызметтерін пайдаланатын халықтың үлесі",
+          "title": "Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",
           "description": "",
           "keywords": "",
           "href": "/6-2-1",
           "status": "notstarted"
         },{
           "id": "6-4-2",
-          "title": "Су ресурстарына жүктеме деңгейі: тұщы судың қолда бар қорларына пайыздық қатынаста тұщы суды алу",
+          "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
           "description": "",
           "keywords": "",
           "href": "/6-4-2",
           "status": "notstarted"
         },{
           "id": "6-5-1",
-          "title": "Су ресурстарын кешенді басқаруды енгізу дәрежесі (0-ден 100-ге дейін)",
+          "title": "Degree of integrated water resources management implementation (0-100)",
           "description": "",
           "keywords": "",
           "href": "/6-5-1",
           "status": "notstarted"
         },{
           "id": "6-3-1",
-          "title": "Қауіпсіз тазартылатын ақаба сулар үлесі",
+          "title": "Proportion of wastewater safely treated",
           "description": "",
           "keywords": "",
           "href": "/6-3-1",
           "status": "notstarted"
         },{
           "id": "6-3-2",
-          "title": "Су сапасы жақсы су қоймаларының үлесі",
+          "title": "Proportion of bodies of water with good ambient water quality",
           "description": "",
           "keywords": "",
           "href": "/6-3-2",
           "status": "notstarted"
         },{
           "id": "6-6-1",
-          "title": "Сумен байланысты экожүйелер алаңының өзгеру динамикасы",
+          "title": "Change in the extent of water-related ecosystems over time",
           "description": "",
           "keywords": "",
           "href": "/6-6-1",
           "status": "notstarted"
         },{
           "id": "6-4-1",
-          "title": "Суды пайдалану тиімділігінің өзгеру динамикасы",
+          "title": "Change in water-use efficiency over time",
           "description": "",
           "keywords": "",
           "href": "/6-4-1",
@@ -670,42 +670,42 @@
       "title": "Қымбат емес, сенімді, тұрақты және заманауи энергия көздерінің барлығы үшін жаппай қолжетімділігін қамтамасыз ету",
       "indicators": [{
           "id": "7-2-1",
-          "title": "Негізінен отынның таза түрлері мен технологияларды пайдаланатын халықтың үлесі",
+          "title": "Renewable energy share in the total final energy consumption",
           "description": "",
           "keywords": "",
           "href": "/7-2-1",
           "status": "notstarted"
         },{
           "id": "7-1-1",
-          "title": "Электр энергиясына қол жеткізуі бар халықтың үлесі",
+          "title": "Proportion of population with access to electricity",
           "description": "",
           "keywords": "",
           "href": "/7-1-1",
           "status": "notstarted"
         },{
           "id": "7-1-2",
-          "title": "Таза отын көздерін және технологияларды қолданатын халықтың үлесі",
+          "title": "Proportion of population with primary reliance on clean fuels and technology",
           "description": "",
           "keywords": "",
           "href": "/7-1-2",
           "status": "notstarted"
         },{
           "id": "7-3-1",
-          "title": "Бастапқы энергия шығысының ЖІӨ-ге қатынасы ретінде есептелетін энергиялық сыйымдылық",
+          "title": "Energy intensity measured in terms of primary energy and GDP",
           "description": "",
           "keywords": "",
           "href": "/7-3-1",
           "status": "notstarted"
         },{
           "id": "7-b-1",
-          "title": "ЖІӨ-ге пайыздық қатынаста энергия тиімділігін қамтамасыз етуде күрделі қаржы салымы мен тұрақты дамуды қамтамасыз ететін қызмет көрсету саласына, олардың инфрақұрылымын кеңейту мен технологияларды жаңғырту мақсаттарына түсетін қаржы қаражаттарындағы тікелей шетелдік инвестициялар үлесі",
+          "title": "Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services",
           "description": "",
           "keywords": "",
           "href": "/7-b-1",
           "status": "notstarted"
         },{
           "id": "7-a-1",
-          "title": "«Таза» энергия саласындағы зерттеулер мен әзірлемелерді қолдау үшін дамушы елдерге түсетін халықаралық қаржы ағымының көлемін және құрамдастырылған жүйелерді қоса алғанда, жаңартылатын көздерде энергетиканы дамыту",
+          "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",
           "description": "",
           "keywords": "",
           "href": "/7-a-1",
@@ -718,119 +718,119 @@
       "title": "Барлығы үшін алға бағытталған, ауқымды және тұрақты экономикалық өсуге, толық және өнімді жұмысбастылыққа және лайықты жұмысқа жәрдемдесу",
       "indicators": [{
           "id": "8-3-1",
-          "title": "Жынысы бойынша бөлуде ауыл шаруашылығы емес секторларда бейресми жұмыспен қамтылу үлесі",
+          "title": "Proportion of informal employment in non-agriculture employment, by sex",
           "description": "",
           "keywords": "",
           "href": "/8-3-1",
           "status": "notstarted"
         },{
           "id": "8-5-1",
-          "title": "Жұмыс түрі, жасы мен мүгедектік белгілері бойынша бөлуде әйелдер мен ерлердің орташа сағаттық жалақысы",
+          "title": "8.5.1 Average hourly earnings of female and male employees, by occupation, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/8-5-1",
           "status": "notstarted"
         },{
           "id": "8-b-1",
-          "title": "Жеке стратегия ретінде жастарды жұмыспен қамтудың немесе жұмыспен қамту саласындағы ұлттық стратегия шеңберінде әзірленген және жүзеге асырылатын ұлттық стратегияның болуы",
+          "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",
           "description": "",
           "keywords": "",
           "href": "/8-b-1",
           "status": "notstarted"
         },{
           "id": "8-4-1",
-          "title": "Халықтың жан жасына шаққанда және ЖІӨ-ге пайыздық қатынаста жиынтық ресурс шығындары және ресурс шығындары",
+          "title": "Material footprint, material footprint per capita, and material footprint per GDP",
           "description": "",
           "keywords": "",
           "href": "/8-4-1",
           "status": "notstarted"
         },{
           "id": "8-6-1",
-          "title": "Оқымайтын, жұмыс істемейтін және кәсіби машық алмайтын жастар (15-тен 24 жасқа дейін) үлесі",
+          "title": "Proportion of youth (aged 15-24 years) not in education, employment or training",
           "description": "",
           "keywords": "",
           "href": "/8-6-1",
           "status": "notstarted"
         },{
           "id": "8-10-1",
-          "title": "a) коммерциялық банктер филиалдарының және b) 100 000 ересек адамға арналған банкоматтар саны",
+          "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",
           "description": "",
           "keywords": "",
           "href": "/8-10-1",
           "status": "notstarted"
         },{
           "id": "8-1-1",
-          "title": "Халықтың жан басына шаққанда нақты ЖІӨ-нің жыл сайынғы өсім қарқыны",
+          "title": "Annual growth rate of real GDP per capita",
           "description": "",
           "keywords": "",
           "href": "/8-1-1",
           "status": "notstarted"
         },{
           "id": "8-7-1",
-          "title": "Доля и число детей в возрасте от 5 до 17 лет, занятых детским трудом, в разбивке по полу и возрасту",
+          "title": "Proportion and number of children aged 5‑17 years engaged in child labour, by sex and age",
           "description": "",
           "keywords": "",
           "href": "/8-7-1",
           "status": "notstarted"
         },{
           "id": "8-8-2",
-          "title": "Жыныс және көші-қон мәртебесі бойынша бөлуде Халықаралық еңбек ұйымы (ХЕҰ) мен ұлттық заңнаманың құжаттамалық көздері негізінде ұлттық деңгейде (бірлестіктер еркіндігі және ұжымдық еңбек шарттарын бекіту) еңбек құқықтары сақталатын жағдайлар",
+          "title": "Level of national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status",
           "description": "",
           "keywords": "",
           "href": "/8-8-2",
           "status": "notstarted"
         },{
           "id": "8-8-1",
-          "title": "Жынысы және көші-қон мәртебесі бойынша бөлуде нәтижесі өлімге әкелетін және әкелмейтін өндірістік жарақат алушылық",
+          "title": "Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status",
           "description": "",
           "keywords": "",
           "href": "/8-8-1",
           "status": "notstarted"
         },{
           "id": "8-4-2",
-          "title": "Халықтың жан жасына шаққанда және ЖІӨ-ге пайыздық қатынаста ішкі жиынтық материалдық тұтыну және ішкі материалдық тұтыну",
+          "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
           "description": "",
           "keywords": "",
           "href": "/8-4-2",
           "status": "notstarted"
         },{
           "id": "8-10-2",
-          "title": "Банкте немесе өзге де қаржылық мекемеде шоты бар немесе мобильді қаржылық қызмет операторлары көрсететін қызметтерді пайдаланатын ересектер үлесі (15 жастан асқан)",
+          "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider",
           "description": "",
           "keywords": "",
           "href": "/8-10-2",
           "status": "notstarted"
         },{
           "id": "8-9-2",
-          "title": "Саладағы жұмыс орындарының жалпы санында тұрақты туризм индустриясында жұмыспен қамтылғандар үлесі",
+          "title": "Proportion of jobs in sustainable tourism industries out of total tourism jobs",
           "description": "",
           "keywords": "",
           "href": "/8-9-2",
           "status": "notstarted"
         },{
           "id": "8-5-2",
-          "title": "Жынысы, жасы және мүгедектік белгісі бойынша жұмыссыздық деңгейі",
+          "title": "Unemployment rate, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/8-5-2",
           "status": "notstarted"
         },{
           "id": "8-a-1",
-          "title": "«Саудадағы көмек» бастамасы шеңберіндегі міндеттемелер мен төлемдер көлемі",
+          "title": "Aid for Trade commitments and disbursements",
           "description": "",
           "keywords": "",
           "href": "/8-a-1",
           "status": "notstarted"
         },{
           "id": "8-2-1",
-          "title": "",
+          "title": "Annual growth rate of real GDP per employed person",
           "description": "",
           "keywords": "",
           "href": "/8-2-1",
           "status": "notstarted"
         },{
           "id": "8-9-1",
-          "title": "Жиынтық ЖІӨ-ге пайыздық қатынаста және өсім қарқыны бойынша туризмнің ЖІӨ-ге тікелей қосқан үлесі",
+          "title": "Tourism direct GDP as a proportion of total GDP and in growth rate",
           "description": "",
           "keywords": "",
           "href": "/8-9-1",
@@ -843,84 +843,84 @@
       "title": "Берік инфрақұрылым құру, ауқымды және тұрақты индустриализация мен инновацияларға жәрдемдесу",
       "indicators": [{
           "id": "9-3-1",
-          "title": "Өнеркәісіптегі таза өнімінің жиынтық көлеміндегі ұсақ кәсіпорындардың үлесі",
+          "title": "Proportion of small-scale industries in total industry value added",
           "description": "",
           "keywords": "",
           "href": "/9-3-1",
           "status": "notstarted"
         },{
           "id": "9-1-1",
-          "title": "Жыл бойғы жолдан 2 км шегінде тұратын ауыл  халқының үлесі",
+          "title": "Proportion of the rural population who live within 2 km of an all-season road",
           "description": "",
           "keywords": "",
           "href": "/9-1-1",
           "status": "notstarted"
         },{
           "id": "9-c-1",
-          "title": "Технологиялар бойынша бөліністегі ұтқыр желілерімен қамтылған халық үлесі,",
+          "title": "Proportion of population covered by a mobile network, by technology",
           "description": "",
           "keywords": "",
           "href": "/9-c-1",
           "status": "notstarted"
         },{
           "id": "9-5-2",
-          "title": "ҒЗТҚЖ шығындарының жалпы көлеміндегі бизнес шығыстарының үлесі",
+          "title": "Researchers (in full-time equivalent) per million inhabitants",
           "description": "",
           "keywords": "",
           "href": "/9-5-2",
           "status": "notstarted"
         },{
           "id": "9-b-1",
-          "title": "Қосылған құнның жалпы көлеміндегі орташа технологиялық және жоғары технологиялық салалардың өнімдеріне қосылған құн үлесі",
+          "title": "Proportion of medium and high-tech industry value added in total value added",
           "description": "",
           "keywords": "",
           "href": "/9-b-1",
           "status": "notstarted"
         },{
           "id": "9-1-2",
-          "title": "Жолаушы және жүк тасымалының көлемі, көлік түрлері бойынша топтастыру",
+          "title": "Passenger and freight volumes, by mode of transport",
           "description": "",
           "keywords": "",
           "href": "/9-1-2",
           "status": "notstarted"
         },{
           "id": "9-2-2",
-          "title": "Жалпы жұмыспен қамтудан пайызбен өңдеуші өнеркәсіптегі жұмыспен қамтылу",
+          "title": "Manufacturing employment as a proportion of total employment",
           "description": "",
           "keywords": "",
           "href": "/9-2-2",
           "status": "notstarted"
         },{
           "id": "9-a-1",
-          "title": "Инфрақұрылымға бағытталатын ресми халықаралық қолдаудың жиынтық көлемі (дамыту мақсатындағы ресми көмек және ресми қаржыландырудың басқа да ағындары)",
+          "title": "Total official international support (official development assistance plus other official flows) to infrastructure",
           "description": "",
           "keywords": "",
           "href": "/9-a-1",
           "status": "notstarted"
         },{
           "id": "9-2-1",
-          "title": "Өңдеуші өнеркәсіпте құрылатын қосылған құн, ЖІӨ-ге пайыздық қатынаста және халықтың жан басына шаққанда",
+          "title": "Manufacturing value added as a proportion of GDP and per capita",
           "description": "",
           "keywords": "",
           "href": "/9-2-1",
           "status": "notstarted"
         },{
           "id": "9-3-2",
-          "title": "Кредиті немесе кредиттік желісі бар ұсақ кәсіпорындар үлесі",
+          "title": "Proportion of small-scale industries with a loan or line of credit",
           "description": "",
           "keywords": "",
           "href": "/9-3-2",
           "status": "notstarted"
         },{
           "id": "9-4-1",
-          "title": "Қосылған құн бірлігіне CO2 шығарындылар",
+          "title": "CO2 emission per unit of value added",
           "description": "",
           "keywords": "",
           "href": "/9-4-1",
           "status": "notstarted"
         },{
           "id": "9-5-1",
-          "title": "ЖІО-ге пайыздық қатынастағы ҒЗТҚЖ шығыстары",
+          "title": "Research and development expenditure as a proportion of GDP",
           "description": "",
           "keywords": "",
           "href": "/9-5-1",
@@ -933,77 +933,77 @@
       "title": "Елдер ішіндегі және олардың арасындағы теңсіздікті қысқарту",
       "indicators": [{
           "id": "10-1-1",
-          "title": "Халықтың жан басына шаққандағы  ең аз қамтылған халықтың 40 пайызы мен бүкіл халық арасындағы үй шаруашылықтары шығыстарының жеке табыстарының өсу қарқыны",
+          "title": "10.1.1 Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population",
           "description": "",
           "keywords": "",
           "href": "/10-1-1",
           "status": "notstarted"
         },{
           "id": "10-3-1",
-          "title": "Соңғы 12 ай ішінде кемсітуге немесе адам құқықтарының халықаралық құқығымен тыйым салынған кемсіту негізін қуғынға тікелей ұшырағаны туралы хабарлаған халық үлесі",
+          "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
           "description": "",
           "keywords": "",
           "href": "/10-3-1",
           "status": "notstarted"
         },{
           "id": "10-7-2",
-          "title": "Жақсы ойластырылған көші-қон саясатын жүргізетін елдер саны",
+          "title": "Number of countries that have implemented well-managed migration policies",
           "description": "",
           "keywords": "",
           "href": "/10-7-2",
           "status": "notstarted"
         },{
           "id": "10-5-1",
-          "title": "Қаржылық тұрақтылық көрсеткіштері",
+          "title": "Financial Soundness Indicators",
           "description": "",
           "keywords": "",
           "href": "/10-5-1",
           "status": "notstarted"
         },{
           "id": "10-a-1",
-          "title": "Нөлдік тарифтер қолданылатын аз дамыған елдер мен дамушы елдердің тауарлық позицияларының үлесі",
+          "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff",
           "description": "",
           "keywords": "",
           "href": "/10-a-1",
           "status": "notstarted"
         },{
           "id": "10-6-1",
-          "title": "Халықаралық ұйымдардың мүшелік құрамындағы дамушы елдердің үлесі және олардың дауыстарының үлес салмағы",
+          "title": "Proportion of members and voting rights of developing countries in international organizations",
           "description": "",
           "keywords": "",
           "href": "/10-6-1",
           "status": "notstarted"
         },{
           "id": "10-c-1",
-          "title": "Аударылатын сомаға пайыздық қатынастағы аудару құны",
+          "title": "Remittance costs as a proportion of the amount remitted",
           "description": "",
           "keywords": "",
           "href": "/10-c-1",
           "status": "notstarted"
         },{
           "id": "10-7-1",
-          "title": "Жұмыскерлердің белгіленген елдегі жылдық табысы бойынша пайызбен оның жұмысқа орналасуына жұмсайтын шығындары",
+          "title": "Recruitment cost borne by employee as a proportion of yearly income earned in country of destination",
           "description": "",
           "keywords": "",
           "href": "/10-7-1",
           "status": "notstarted"
         },{
           "id": "10-2-1",
-          "title": "Жасына қарай тобы, жынысы және мүгедектігі бойынша бөліністегі медианалық табыстың 50% төмен табысы бар адамдар үлесі",
+          "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/10-2-1",
           "status": "notstarted"
         },{
           "id": "10-b-1",
-          "title": "Қабылдаушы-елдер және донор-елдер бөлінісіндегі жіберілетін ресурстар ағынының бірлескен көлемі (мысалы дамыту мақсатында тікелей инвестициялардың және басқа да қаржы ағындарының ресми көмегі)",
+          "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",
           "description": "",
           "keywords": "",
           "href": "/10-b-1",
           "status": "notstarted"
         },{
           "id": "10-4-1",
-          "title": "ЖІӨ еңбек етушілердің табыстарының үлесі, соның ішінде жалақысы мен әлеуметтік қорғау желісі бойынша төлемдер",
+          "title": "Labour share of GDP, comprising wages and social protection transfers",
           "description": "",
           "keywords": "",
           "href": "/10-4-1",
@@ -1016,105 +1016,105 @@
       "title": "Қалалар мен елді мекендердің ашықтығын, қауіпсіздігін, өміршеңдігін және экологиялық тұрақтылығын қамтамасыз ету",
       "indicators": [{
           "id": "11-1-1",
-          "title": "Шалғай жерлерде кедей аудандарда, бейресми мекендерде немесе қанағаттанарлықсыз тұрғын үй жағдайларында тұрып жатқан қала халықының үлесі",
+          "title": "Proportion of urban population living in slums, informal settlements or inadequate housing",
           "description": "",
           "keywords": "",
           "href": "/11-1-1",
           "status": "notstarted"
         },{
           "id": "11-6-2",
-          "title": "Қалалар атмосферасындағы (халық санына қайта есептеу бойынша ) ұсақ қатты бөлшектерді (мысалы, РМ2.5 және РМ10 класты) сақтаудың орташа жылдық деңгейі",
+          "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)",
           "description": "",
           "keywords": "",
           "href": "/11-6-2",
           "status": "notstarted"
         },{
           "id": "11-5-1",
-          "title": "100 000 адамға шаққандағы тікелей апаттар нәтижесінде қаза болғандар, із-түзсіз жоғалғандар және жарақаттанғандар саны",
+          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (repeat of and 13.1.1)",
           "description": "",
           "keywords": "",
           "href": "/11-5-1",
           "status": "notstarted"
         },{
           "id": "11-7-2",
-          "title": "Жынысы, жасы, мүгедектік белгісі және соңғы 12 айдағы оқиға орны бойынша бөліністегі  күш көрсетумен және сексуалдық мәжбүрлеуге ұшыраған адамдардың үлесі",
+          "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/11-7-2",
           "status": "notstarted"
         },{
           "id": "11-2-1",
-          "title": "Жынысы, жасы және мүгедектік белгісі бойынша бөліністегі қоғамдық көлікке деген ыңғайлы қолжетімділікке ие халықтың үлесі",
+          "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/11-2-1",
           "status": "notstarted"
         },{
           "id": "11-b-1",
-          "title": "2015-2030 жылдарға арналған апаттардың қаупін төмендету бойынша Сендай негіздемелік бағдарламасына сәйкес апаттардың пайда болу қаупін төмендетудің ұлттық стратегияларын қабылдаған және жүзеге асырушы елдер саны",
+          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030",
           "description": "",
           "keywords": "",
           "href": "/11-b-1",
           "status": "notstarted"
         },{
           "id": "11-3-1",
-          "title": "Құрылыс салу және халықтың өсу қарқынының ара қатынасы",
+          "title": "Ratio of land consumption rate to population growth rate",
           "description": "",
           "keywords": "",
           "href": "/11-3-1",
           "status": "notstarted"
         },{
           "id": "11-a-1",
-          "title": "Халықтың өсу қарқынын болжамдау және ресурстарда қажеттілігін есепке алынатын қалалық және өңірлік құрылысын жүзеге асыратын қалада тұратын халықтың үлесі, қалалардың көлемі бөлінісінде",
+          "title": "Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city",
           "description": "",
           "keywords": "",
           "href": "/11-a-1",
           "status": "notstarted"
         },{
           "id": "11-5-2",
-          "title": "Дүниежүзілік ЖІӨ-ге пайыздық қатынастағы тікелей экономикалық шығындар, инфрақұрылымның ең маңызды объектілеріне келтірілген нұқсан және негізгі қызметтердің жұмысындағы апат салдарынан болған ақаулар саны",
+          "title": "Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters",
           "description": "",
           "keywords": "",
           "href": "/11-5-2",
           "status": "notstarted"
         },{
           "id": "11-c-1",
-          "title": "Экологиялық, берік және ресурс сақтаушы ғимараттар құрылысы мен олардың жергілікті материалдарын пайдалану арқылы олардың экологиялылығын, беріктігін және ресурстарының үнемделуін қамтамасыз ету үшін ғимараттарды қайта жабдықтауға бөлінетін аз дамыған елдерді қаржылық қолдау үлесі",
+          "title": "Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials",
           "description": "",
           "keywords": "",
           "href": "/11-c-1",
           "status": "notstarted"
         },{
           "id": "11-3-2",
-          "title": "Азаматтық қоғамның қала құрылысын жоспарлауға және қала шаруашылығын басқаруға тікелей қатысуын қамтамасыз ететін құрылымдар жүйелі және демократиялық негізде жұмыс істейтін қалалар үлесі",
+          "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically",
           "description": "",
           "keywords": "",
           "href": "/11-3-2",
           "status": "notstarted"
         },{
           "id": "11-b-2",
-          "title": "Апаттардың қаупін төмендетудің ұлттық стратегияларына сәйкес жергілікті апаттардың қаупін төмендету стратегияларын қабылдаған және жүзеге асыратын жергілікті билік органдарының үлесі",
+          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/11-b-2",
           "status": "notstarted"
         },{
           "id": "11-4-1",
-          "title": "Мұра түрлері (мәдени, табиғи, аралас және Дүниежүзілік мұра орталығы мойындаған дүниежүзілік мұра объектісі), мемлекеттік ведомстволық бағыныстылық деңгейі (ұлттық, аумақтық және жергілікті/муниципалдық), шығыстар түрлері (пайдалану шығыстары/ күрделі қаржы жұмсалымы) және жеке қаржыландыру түрлері заттай нысандағы қайырымдылық, жеке, коммерциялық емес сектор және демеушілік) бойынша бөліністегі халықтың жан басына шаққандағы бүкіл мәдени және табиғи мұраны сақтау және қорғау мақсаттарына берілетін шығыстардың жалпы сомасы (мемлекеттік және жеке)",
+          "title": "Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)",
           "description": "",
           "keywords": "",
           "href": "/11-4-1",
           "status": "notstarted"
         },{
           "id": "11-6-1",
-          "title": "Үнемі жиналатын және тиісті түрде жойылатын қатты қоқыс қалдықтарының қалалық қоқыстардың жалпы массасындағы үлесі",
+          "title": "Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities",
           "description": "",
           "keywords": "",
           "href": "/11-6-1",
           "status": "notstarted"
         },{
           "id": "11-7-1",
-          "title": "Жынысы, жасы және мүгедектік белгісі бойынша бөліністегі қолжетімділігін көрсетумен, барлығы үшін ашық орындарға қатысты құрылыс салынған қалалық аумақтың орташа үлесі",
+          "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/11-7-1",
@@ -1127,91 +1127,91 @@
       "title": "Оңтайлы тұтыну мен өндіру үлгілеріне өтуді қамтамасыз ету",
       "indicators": [{
           "id": "12-6-1",
-          "title": "Ресурстарды оңтайлы пайдалану туралы есептерді жариялайтын компаниялар саны",
+          "title": "Number of companies publishing sustainability reports",
           "description": "",
           "keywords": "",
           "href": "/12-6-1",
           "status": "notstarted"
         },{
           "id": "12-4-1",
-          "title": "Ақпаратты әрбір келісім талаптарына сәйкес тапсыру бойынша өз міндеттемелері мен міндеттерін орындайтын қауіпті және өзге де химиялық заттар мен қалдықтар бойынша халықаралық көпжақты экологиялық келісімдердің тараптар саны",
+          "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",
           "description": "",
           "keywords": "",
           "href": "/12-4-1",
           "status": "notstarted"
         },{
           "id": "12-a-1",
-          "title": "Экологиялық қауіпсіз технологияларды оңтайлы тұтыну мен өндіру және енгізу мүддесінде дамушы елдерге ғылыми зерттеулер және тәжірибелік-конструкторлық әзірлемелер саласында берілетін көмек көлемі",
+          "title": "Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies",
           "description": "",
           "keywords": "",
           "href": "/12-a-1",
           "status": "notstarted"
         },{
           "id": "12-1-1",
-          "title": "Тұтыну мен өндірістің оңтайлы үлгілеріне көшу бойынша іс-қимылдардың ұлттық жоспары бар немесе ұлттық стратегияға оңтайлы тұтыну мен өндірісті басымдық немесе міндет ретінде қосқан елдер саны",
+          "title": "Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies",
           "description": "",
           "keywords": "",
           "href": "/12-1-1",
           "status": "notstarted"
         },{
           "id": "12-2-1",
-          "title": "Жиынтық ресурс шығындары және халықтың жан басына шаққандағы ресурс шығындары және ЖІӨ-ге пайыздық қатынаста",
+          "title": "Material footprint, material footprint per capita, and material footprint per GDP",
           "description": "",
           "keywords": "",
           "href": "/12-2-1",
           "status": "notstarted"
         },{
           "id": "12-5-1",
-          "title": "Қалдықтарды қайта өңдеудің ұлттық деңгейі,  тоннамен алғандағы пайдаланылған материалдардың салмағы",
+          "title": "National recycling rate, tons of material recycled",
           "description": "",
           "keywords": "",
           "href": "/12-5-1",
           "status": "notstarted"
         },{
           "id": "12-b-1",
-          "title": "Мониторинг және бағалаудың келісілген құралдарымен тұрақты туризм саласындағы жүзеге асырылатын стратегиялар немесе директивалар және іс-қимылдар жоспарының саны",
+          "title": "Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools",
           "description": "",
           "keywords": "",
           "href": "/12-b-1",
           "status": "notstarted"
         },{
           "id": "12-3-1",
-          "title": "Азық-түлік шығындарының ғаламдық көрсеткіші",
+          "title": "Global food loss index",
           "description": "",
           "keywords": "",
           "href": "/12-3-1",
           "status": "notstarted"
         },{
           "id": "12-8-1",
-          "title": "і) дүниежүзілік азаматтық рухтағы тәрбиелеу және іі) тұрақты дамуды насихаттау (климаттың өзгеру мәслесі бойынша ағартуды қоса)  мәртебесі: а) білім беру саласындағы ұлттық саясатқа; b) оқу бағдарламаларында; с) мұғалімдерді даярлау бағдарламаларында; және d) оқушыларды аттестациялау жүйесінде",
+          "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
           "description": "",
           "keywords": "",
           "href": "/12-8-1",
           "status": "notstarted"
         },{
           "id": "12-7-1",
-          "title": "Мемлекеттік сатып алуларды экологияландыру бойынша стратегиялар мен жоспарларды жүзеге асыратын елдер саны",
+          "title": "Number of countries implementing sustainable public procurement policies and action plans",
           "description": "",
           "keywords": "",
           "href": "/12-7-1",
           "status": "notstarted"
         },{
           "id": "12-4-2",
-          "title": "Өңдеу түрлері бойынша халықтың жан басына шаққандағы қауіпті қалдықтардың түзілуі және өңделетін қауіпті шығындардың үлесі",
+          "title": "Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment",
           "description": "",
           "keywords": "",
           "href": "/12-4-2",
           "status": "notstarted"
         },{
           "id": "12-c-1",
-          "title": "ЖІӨ бірлігіне шаққанда қазбалы отынға берілетін субсидиялар сомасы (өндіріс және тұтыну) және олардың қазбалы отынға жұмсалатын жиынтық ұлттық шығыстардағы үлесі",
+          "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels",
           "description": "",
           "keywords": "",
           "href": "/12-c-1",
           "status": "notstarted"
         },{
           "id": "12-2-2",
-          "title": "Жиынтық ішкі материалдық тұтыну және халықтың жан басына шаққандағы ішкі материалдық тұтыну мен ЖІӨ-ге пайыздық қатынаста",
+          "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
           "description": "",
           "keywords": "",
           "href": "/12-2-2",
@@ -1224,56 +1224,56 @@
       "title": "Климаттың өзгеруімен және оның салдарларымен күрес бойынша шұғыл шаралар қабылдау",
       "indicators": [{
           "id": "13-1-3",
-          "title": "Апаттардың қауіп-қатерін төмендетудің ұлттық стратегияларына сәйкес апаттардың қауіп-қатерін төмендетудің жергілікті стратегияларын қабылдаған және жүзеге асыратын жергілікті билік органдарының үлесі",
+          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/13-1-3",
           "status": "notstarted"
         },{
           "id": "13-a-1",
-          "title": "100 млрд. АҚШ долл. жұмылдыру бойынша міндеттемеге сәйкес 2020 жылдан бастап 2025 жылға дейін жұмылдырылған сома (АҚШ долл.)",
+          "title": "Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment",
           "description": "",
           "keywords": "",
           "href": "/13-a-1",
           "status": "notstarted"
         },{
           "id": "13-1-2",
-          "title": "2015-2030 жылдарға арналған апаттардың қауіп-қатерін төмендету бойынша Сендай негіздемелік бағдарламасына сәйкес апаттардың қауіп-қатерін төмендету ұлттық стратегияларын қабылдаған және жүзеге асыратын елдер саны",
+          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030",
           "description": "",
           "keywords": "",
           "href": "/13-1-2",
           "status": "notstarted"
         },{
           "id": "13-3-2",
-          "title": "Климат өзгерістеріне бейімделу, олардың салдарларын әлсірету және технологияларды тапсыру және дамыту  саласындағы институционалдық, жүйелік және жеке мүмкіндіктерді күшейту туралы хабарлаған елдер саны",
+          "title": "Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions",
           "description": "",
           "keywords": "",
           "href": "/13-3-2",
           "status": "notstarted"
         },{
           "id": "13-1-1",
-          "title": "100 мың адамға шаққандағы тікелей апаттың нәтижесінде қаза болған, іс-түзсіз жоғалған және зардап шеккендердің саны",
+          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/13-1-1",
           "status": "notstarted"
         },{
           "id": "13-2-1",
-          "title": "Азық-түлік өндірісіне қауіп төндірмейтіндей, климаттық өзгерістің жағымсыз салдарларына бейімделу мүмкіндіктерін арттыратын және олардың климаттық өзгеріске қарсы іс-қимыл әлеуетінің дамуына және парниктік газдардың шығарындыларын төмендетуге ықпал ететін кешенді саясатты/стратегияны/жоспарды құру немесе қолданысқа енгізу туралы хабарлаған елдер саны (соның ішінде ұлттық бейімделу жоспарын, ұлттық деңгейде айқындалатын салым, халықты хабарландыру ұлттық жүйесі, екі жылдық жаңартылған баяндаманы дайындау және басқаны қоса алғанда)",
+          "title": "Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)",
           "description": "",
           "keywords": "",
           "href": "/13-2-1",
           "status": "notstarted"
         },{
           "id": "13-b-1",
-          "title": "Мамандандырылған көмекті, соның ішінде әйелдерге, жастарға және жергілікті және марганилданған қауымдарға бағдарланған мамандандырылған көмек алатын аз дамыған елдер мен шағын аралдық дамушы мемлекеттер саны және климаттың өзгеруімен байланысты жоспарлау және басқару бөлігіндегі мүмкіндіктерді кеңейту тетіктерін құруға ұсынылатын қаржыландыруды, технологияларды және әлеуетті күшейтуді қосқандағы осындай қолдаудың шамасы",
+          "title": "Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities",
           "description": "",
           "keywords": "",
           "href": "/13-b-1",
           "status": "notstarted"
         },{
           "id": "13-3-1",
-          "title": "Климат өзгерісінің қауіптілігін жеңілдету және салдарларын әлсірету, оларға бейімделу және ерте ескерту мәселелерін бастауыш және орта мектеп және жоғары оқу орындарының оқу бағдарламасына енгізген елдер саны",
+          "title": "Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula",
           "description": "",
           "keywords": "",
           "href": "/13-3-1",
@@ -1286,70 +1286,70 @@
       "title": "Мұхиттарды, теңіздерді және теңіз ресурстарын тұрақты даму мүдделерінде сақтау және оңтайлы пайдалану",
       "indicators": [{
           "id": "14-6-1",
-          "title": "Заңсыз, хабарланбайтын және реттелмейтін балық аулау кәсібімен күресу бойынша халықаралық құқықтық құжаттарды сақтау дәрежесі тұрғысынан елдер қол жеткізген ілгерілеу",
+          "title": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",
           "description": "",
           "keywords": "",
           "href": "/14-6-1",
           "status": "notstarted"
         },{
           "id": "14-1-1",
-          "title": "Жағалаудағы эвтрофикация индексі және қалқып тұрған пластмасса кесегінің тығыздығы",
+          "title": "Index of coastal eutrophication and floating plastic debris density",
           "description": "",
           "keywords": "",
           "href": "/14-1-1",
           "status": "notstarted"
         },{
           "id": "14-2-1",
-          "title": "Басқаруда экожүйелік тәсілдер қолданылатын ұлттық айрықша экономикалық аймақтардың үлесі",
+          "title": "Proportion of national exclusive economic zones managed using ecosystem-based approaches",
           "description": "",
           "keywords": "",
           "href": "/14-2-1",
           "status": "notstarted"
         },{
           "id": "14-5-1",
-          "title": "Күзетілетін теңіз аудандарының үлесі",
+          "title": "Coverage of protected areas in relation to marine areas",
           "description": "",
           "keywords": "",
           "href": "/14-5-1",
           "status": "notstarted"
         },{
           "id": "14-a-1",
-          "title": "Ғылыми зерттеулерге бюджеттен бөлінетін қаржының жалпы көлеміндегі теңіз технологиялары саласындағы ғылыми зерттеулерге бюджеттен бөлінетін қаржының үлесі",
+          "title": "Proportion of total research budget allocated to research in the field of marine technology",
           "description": "",
           "keywords": "",
           "href": "/14-a-1",
           "status": "notstarted"
         },{
           "id": "14-3-1",
-          "title": "Сынамаларды алу репрезентативті станциялардың келісілген тобында өлшенетін теңіз суының сутегі көрсеткішінің орташа мәні (pH)",
+          "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations",
           "description": "",
           "keywords": "",
           "href": "/14-3-1",
           "status": "notstarted"
         },{
           "id": "14-7-1",
-          "title": "Шағын аралдық дамушы мемлекеттерде, онша дамымаған елдерде және барлық елдердегі экологиялық тиімді балық аулау кәсібі, ЖІӨ-ден пайызбен",
+          "title": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",
           "description": "",
           "keywords": "",
           "href": "/14-7-1",
           "status": "notstarted"
         },{
           "id": "14-c-1",
-          "title": "Әлемдік мұхитты және оның ресурстарын сақтау мен тиімді пайдалануға қатысты Біріккен Ұлттар Ұйымының Теңіз құқығы жөніндегі конвенциясында бекітілген халықаралық құқық нормаларын жүзеге асыруға бағытталған құқықтық, стратегиялық және институционалдық шектеулер желісі бойынша Әлемдік мұхит мәселелері бойынша құқықтық құжаттарды ратификациялау, қабылдау және жүзеге асыруда ілгерілеуге қол жеткізген елдер саны",
+          "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nation Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",
           "description": "",
           "keywords": "",
           "href": "/14-c-1",
           "status": "notstarted"
         },{
           "id": "14-4-1",
-          "title": "биологиялық тұрақты шектердегі балық қорларының үлесі",
+          "title": "Proportion of fish stocks within biologically sustainable levels",
           "description": "",
           "keywords": "",
           "href": "/14-4-1",
           "status": "notstarted"
         },{
           "id": "14-b-1",
-          "title": "Ұсақ балық аулау кәсібі кәсіпорындарының құқықтарын тану мен қорғауды қамтамасыз ететін нормативтік-құқықтық/стратегиялық/институционалдық шектеулерді қолдану дәрежесі тұрғысынан елдер қол жеткізген ілгерілеу",
+          "title": "Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries",
           "description": "",
           "keywords": "",
           "href": "/14-b-1",
@@ -1362,98 +1362,98 @@
       "title": "Құрлық экожүйелерін қорғау және қалпына келтіру және олардың оңтайлы пайдаланылуына жәрдемдесу, ормандарды оңтайлы пайдалану, шөлейттенумен күрес, жердің азу үдерісін тоқтату және кері бұру және биоәртүрлілікті жоғалту үдерісін тоқтату",
       "indicators": [{
           "id": "15-7-1",
-          "title": "Сауда жүргізілетін түрлер арасындағы браконьерлік немесе заңсыз айналым объектісі болып табылатын жабайы аңдар үлесі",
+          "title": "Proportion of traded wildlife that was poached or illicitly trafficked",
           "description": "",
           "keywords": "",
           "href": "/15-7-1",
           "status": "notstarted"
         },{
           "id": "15-4-1",
-          "title": "Таулы биологиялық алуан түрлілік үшін маңызды учаскелер арасында күзетілетін аудандар үлесі",
+          "title": "Coverage by protected areas of important sites for mountain biodiversity",
           "description": "",
           "keywords": "",
           "href": "/15-4-1",
           "status": "notstarted"
         },{
           "id": "15-5-1",
-          "title": "Қызыл тізім индексі",
+          "title": "Red List Index",
           "description": "",
           "keywords": "",
           "href": "/15-5-1",
           "status": "notstarted"
         },{
           "id": "15-8-1",
-          "title": "Бөгде инвазивті түрлер санының енуінің алдын алу немесе реттеу үшін тиісті ұлттық заңнама қабылдайтын және жеткілікті ресурстар бөлетін елдер үлесі",
+          "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species",
           "description": "",
           "keywords": "",
           "href": "/15-8-1",
           "status": "notstarted"
         },{
           "id": "15-1-1",
-          "title": "Құрлықтың жалпы алаңында пайыздық қатынастағы ормандар алаңы",
+          "title": "Forest area as a proportion of total land area",
           "description": "",
           "keywords": "",
           "href": "/15-1-1",
           "status": "notstarted"
         },{
           "id": "15-9-1",
-          "title": "2011-2020 жылдарға биологиялық алуан түрлілік бойынша стратегиялық жоспар шеңберінде 2 Биологиялық алуан түрлілік бойынша Айтиндік нысаналы міндетке сәйкес белгіленген ұлттық нысаналы көрсеткіштерге жетудегі ілгерілеу",
+          "title": "Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020",
           "description": "",
           "keywords": "",
           "href": "/15-9-1",
           "status": "notstarted"
         },{
           "id": "15-b-1",
-          "title": "Дамыту мақсатындағы ресми көмек және биологиялық алуан түрлілік және экожүйелерді сақтау және оңтайлы пайдалануға бөлінетін мемлекеттік қаражат көлемі",
+          "title": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems",
           "description": "",
           "keywords": "",
           "href": "/15-b-1",
           "status": "notstarted"
         },{
           "id": "15-1-2",
-          "title": "Экожүйелердің түрлері бойынша бөліністе күзетілетін құрлықтың және тұщы сулар аудандарының биологиялық алуан түрлілігі тұрғысынан маңызды аудандар үлесі",
+          "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",
           "description": "",
           "keywords": "",
           "href": "/15-1-2",
           "status": "notstarted"
         },{
           "id": "15-c-1",
-          "title": "Саудаға түсетін түрлері арасындағы браконьерлік немесе заңсыз айналым объектісі болып табылатын, жабайы аңдар үлесі",
+          "title": "Proportion of traded wildlife that was poached or illicitly trafficked",
           "description": "",
           "keywords": "",
           "href": "/15-c-1",
           "status": "notstarted"
         },{
           "id": "15-4-2",
-          "title": "Таудың өсімдік жамылғысы индексі",
+          "title": "Mountain Green Cover Index",
           "description": "",
           "keywords": "",
           "href": "/15-4-2",
           "status": "notstarted"
         },{
           "id": "15-6-1",
-          "title": "Игіліктерді әділетті және кемсітусіз бөлуді қамтамасыз ететін заңнамалық, әкімшілік және директивалық шаралар кешенін қабылдаған елдер саны",
+          "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",
           "description": "",
           "keywords": "",
           "href": "/15-6-1",
           "status": "notstarted"
         },{
           "id": "15-a-1",
-          "title": "Дамыту мақсатындағы ресми көмек пен биологиялық алуан түрлілік және экожүйелерді сақтау және тиімді пайдалануға бөлінетін мемлекеттік қаражат көлемі",
+          "title": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems",
           "description": "",
           "keywords": "",
           "href": "/15-a-1",
           "status": "notstarted"
         },{
           "id": "15-3-1",
-          "title": "Деградацияға ұшыраған жерлер ауданының құрлықтың жалпы ауданына пайыздық қатынаста",
+          "title": "Proportion of land that is degraded over total land area",
           "description": "",
           "keywords": "",
           "href": "/15-3-1",
           "status": "notstarted"
         },{
           "id": "15-2-1",
-          "title": "Орман шаруашылығын тауысып алмай жүргізуге көшудегі ілгерілеу",
+          "title": "Progress towards sustainable forest management",
           "description": "",
           "keywords": "",
           "href": "/15-2-1",
@@ -1466,161 +1466,161 @@
       "title": "Тұрақты даму мүдделерінде бейбіт және ашық қоғамның құрылуына жәрдемдесу, барлығы үшін сот әділдігіне қол жеткізу мүмкіндігін қамтамасыз ету және барлық деңгейлерде тиімді, есеп беруге міндетті және кең қатысуға негізделген мекемелерді құру",
       "indicators": [{
           "id": "16-5-1",
-          "title": "Алдыңғы 12 айда кем дегенде бір рет мемлекеттік лауазымды тұлғамен байланысқан және мемлекеттік лауазымды тұлғаға пара берген немесе олардан осы мемлекеттік лауазымды тұлға пара талап еткен адамдар үлесі",
+          "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/16-5-1",
           "status": "notstarted"
         },{
           "id": "16-7-2",
-          "title": "Жынысы, жасы, мүгедектік сипаты және халық тобы бойынша бөлінісіндегі шешімдерді қабылдауды барлығын қамтитын және жедел деп есептейтін халық үлесі",
+          "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",
           "description": "",
           "keywords": "",
           "href": "/16-7-2",
           "status": "notstarted"
         },{
           "id": "16-4-1",
-          "title": "Заңсыз кіріс және шығыс қаржылық ағындардың жалпы көлемі (ағымдағы бағада АҚШ долларында)",
+          "title": "Total value of inward and outward illicit financial flows (in current United States dollars)",
           "description": "",
           "keywords": "",
           "href": "/16-4-1",
           "status": "notstarted"
         },{
           "id": "16-10-2",
-          "title": "Азаматтардың ақпаратқа қолжетімділігінің қолданыстағы конституциялық, заңнамалық және/немесе саяси кепілдіктері",
+          "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",
           "description": "",
           "keywords": "",
           "href": "/16-10-2",
           "status": "notstarted"
         },{
           "id": "16-6-2",
-          "title": "Көрсетілген қызметтер сапасын қосқанда мемлекеттік қызметтерді пайдаланудың соңғы тәжірибесімен қанағаттанған халық үлесі",
+          "title": "Proportion of population satisfied with their last experience of public services",
           "description": "",
           "keywords": "",
           "href": "/16-6-2",
           "status": "notstarted"
         },{
           "id": "16-3-1",
-          "title": "Соңғы 12 айда құзырлы органдарға немесе ресми мойындалған жанжалдарды реттеу механизмдерге тиісті шағым түсірген зорлық құрбандарының үлесі",
+          "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",
           "description": "",
           "keywords": "",
           "href": "/16-3-1",
           "status": "notstarted"
         },{
           "id": "16-1-2",
-          "title": "100 000 адамға шаққандағы жанжалмен байланысты өлімдер саны (жас топтары, жынысы және себебі бойынша бөлінісінде)",
+          "title": "Conflict-related deaths per 100,000 population, by sex, age and cause",
           "description": "",
           "keywords": "",
           "href": "/16-1-2",
           "status": "notstarted"
         },{
           "id": "16-1-4",
-          "title": "Өз ауданында көшеде жалғыз кетіп бара жатқанда өздерін қауіпсіз сезінетін адамдар үлесі",
+          "title": "16.1.4 Proportion of population that feel safe walking alone around the area they live",
           "description": "",
           "keywords": "",
           "href": "/16-1-4",
           "status": "notstarted"
         },{
           "id": "16-1-3",
-          "title": "Соңғы 12 ай ішінде физикалық, психологиялық немесе сексуалдық зорлыққа ұшыраған халық үлесі",
+          "title": "16.1.3 Proportion of population subjected to physical, psychological or sexual violence in the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/16-1-3",
           "status": "notstarted"
         },{
           "id": "16-3-2",
-          "title": "Қамауда отырған адамдардың жалпы санына пайыздық қатынастағы үкім шығарғанға дейін қамауда отырғандардың саны",
+          "title": "Unsentenced detainees as a proportion of overall prison population",
           "description": "",
           "keywords": "",
           "href": "/16-3-2",
           "status": "notstarted"
         },{
           "id": "16-7-1",
-          "title": "Ұлттық үйлестірумен салыстырғанда түрде мемлекеттік мекемелердегі (ұлттық және жергілікті заңнамалық жиналыстарда, мемлекеттік қызметте және сот органдарында) лауазымдар үлесі (жасы, жынысы, мүгедектік сипаты және халық тобы бойынша бөлінісінде)",
+          "title": "Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions",
           "description": "",
           "keywords": "",
           "href": "/16-7-1",
           "status": "notstarted"
         },{
           "id": "16-2-1",
-          "title": "Соңғы айда олардың күтімін қамтамасыз ететін адамдардың тарапынан кез келген физикалық жаза қолдану және/немесе психологиялық агрессияға ұшыраған 1 жастан 17 жасқа дейінгі балалар, соның ішінде мүмкіндіктері шектеулі және мүгедек балалардың үлесі",
+          "title": "Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month",
           "description": "",
           "keywords": "",
           "href": "/16-2-1",
           "status": "notstarted"
         },{
           "id": "16-9-1",
-          "title": "Жасы бойынша бөлінісіндегі тууы азаматтық органдарда тіркелген бес жасқа дейінгі балалар үлесі",
+          "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",
           "description": "",
           "keywords": "",
           "href": "/16-9-1",
           "status": "notstarted"
         },{
           "id": "16-a-1",
-          "title": "Париждік қағидаттарға сәйкес әрекет ететін тәуелсіз ұлттық құқық қорғау институттарының бар болуы",
+          "title": "Existence of independent national human rights institutions in compliance with the Paris Principles",
           "description": "",
           "keywords": "",
           "href": "/16-a-1",
           "status": "notstarted"
         },{
           "id": "16-8-1",
-          "title": "Халықаралық ұйымдардың мүшелік құрамындағы дамушы елдердің үлесі және олардың дауыстарының үлес салмағы",
+          "title": "Proportion of members and voting rights of developing countries in international organizations",
           "description": "",
           "keywords": "",
           "href": "/16-8-1",
           "status": "notstarted"
         },{
           "id": "16-1-1",
-          "title": "Жынысы және жас топтары бойынша бөлінісіндегі  100 000 адамға шаққандағы қасақана адам өлтіру құрбандарының саны",
+          "title": "Number of victims of intentional homicide per 100,000 population, by sex and age",
           "description": "",
           "keywords": "",
           "href": "/16-1-1",
           "status": "notstarted"
         },{
           "id": "16-4-2",
-          "title": "Шығу тегі немесе иелену жағдайлары заңсыз екендігін халықаралық құжаттарға сәйкес құзырлы орган қадағалап немесе анықталған тартып алынған, тауып алынған немесе өткізілген қару үлесі",
+          "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",
           "description": "",
           "keywords": "",
           "href": "/16-4-2",
           "status": "notstarted"
         },{
           "id": "16-5-2",
-          "title": "Алдыңғы 12 айда кем дегенде бір рет мемлекеттік лауазымды тұлғамен байланысқан және мемлекеттік лауазымды тұлғаға пара берген немесе олардан осы мемлекеттік лауазымды тұлға пара талап еткен коммерциялық компаниялар үлесі",
+          "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/16-5-2",
           "status": "notstarted"
         },{
           "id": "16-2-3",
-          "title": "18 жасқа жеткенше сексуалдық зорлыққа ұшыраған 18 жастан 24 жасқа дейінгі жас әйелдер мен еркектер үлесі",
+          "title": "Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18",
           "description": "",
           "keywords": "",
           "href": "/16-2-3",
           "status": "notstarted"
         },{
           "id": "16-2-2",
-          "title": "Жынысы, жасы бойынша бөлінісіндегі 100 000 адамға шаққандағы адам саудасы құрбандарының саны",
+          "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation",
           "description": "",
           "keywords": "",
           "href": "/16-2-2",
           "status": "notstarted"
         },{
           "id": "16-b-1",
-          "title": "Ұлттық және халықаралық органдарға соңғы 12 ай ішінде кемсітудің немесе адам құқықтарының халықаралық құқығымен тыйым салынған негіздемедегі қуғындаудың белгілерін өз басынан өткен туралы  хабарлаған адамдардың, соның ішінде мүмкіндіктері шектеулі адамдардың үлесі",
+          "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
           "description": "",
           "keywords": "",
           "href": "/16-b-1",
           "status": "notstarted"
         },{
           "id": "16-10-1",
-          "title": "Соңғы 12 ай ішінде журналисттер мен олармен байланысты бұқаралық ақпарат құралдары өкілдерінің, кәсіподақ қызметкерлерінің және құқық қорғаушыларын өлтіру, ұрлау, зорлап жоғалту, еркінше ұстау және  азаптау оқиғаларының расталған саны",
+          "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/16-10-1",
           "status": "notstarted"
         },{
           "id": "16-6-1",
-          "title": "Секторлар бойынша бөлінісінде бастапқыда бекітілген бюджетке пайыздық қатынаста үкіметтің бастапқы шығыстары (бюджеттік жіктелім немесе ұқсас санаттар бойынша)",
+          "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",
           "description": "",
           "keywords": "",
           "href": "/16-6-1",
@@ -1633,175 +1633,175 @@
       "title": "Тұрақты даму мүдделеріндегі жаһандық әріптестіктердің шектерінде жүзеге асыру құралдарын нығайту және жұмысты жандандыру",
       "indicators": [{
           "id": "17-16-1",
-          "title": "Тұрақты даму мақсаттарына жетудегі демеуші болып табылатын көптеген мүдделі тараптардың қатысуымен даму тиімділігін бақылау механзмдерін қолдану ісіндегі прогресс туралы хабарлайтын елдер саны",
+          "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals",
           "description": "",
           "keywords": "",
           "href": "/17-16-1",
           "status": "notstarted"
         },{
           "id": "17-12-1",
-          "title": "Дамушы елдерге, аз дамыған елдерге және шағын аралдық дамушы мемлекеттерге қатысты қолданылатын тарифтердің орташа деңгейі",
+          "title": "Average tariffs faced by developing countries, least developed countries and small island developing States",
           "description": "",
           "keywords": "",
           "href": "/17-12-1",
           "status": "notstarted"
         },{
           "id": "17-18-3",
-          "title": "Қаржыландыру көздері бойынша бөлінісіндегі толығымен қаржыландырылған және ұлттық статистикалық жоспарды жүзеге асыратын елдер саны",
+          "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",
           "description": "",
           "keywords": "",
           "href": "/17-18-3",
           "status": "notstarted"
         },{
           "id": "17-14-1",
-          "title": "Тұрақты даму саласында саясаттың келісушілігін көтеруге арналған механизмдер",
+          "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development",
           "description": "",
           "keywords": "",
           "href": "/17-14-1",
           "status": "notstarted"
         },{
           "id": "17-17-1",
-          "title": "Мемлекеттік-жеке серіктестіктер мен азаматтық қоғам ұйымдарының серіктестіктеріне бөлінетін сома (АҚШ долларында)",
+          "title": "Amount of United States dollars committed to public-private and civil society partnerships",
           "description": "",
           "keywords": "",
           "href": "/17-17-1",
           "status": "notstarted"
         },{
           "id": "17-15-1",
-          "title": "Даму мақсатында елдер дайындаған нәтижелердің болжамды тізбелері мен ынтымақтастық процесінде қатысушылардың жоспарлау құралдары пайдалану ауқымдары",
+          "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation",
           "description": "",
           "keywords": "",
           "href": "/17-15-1",
           "status": "notstarted"
         },{
           "id": "17-9-1",
-          "title": "Дамушы елдерге қаржылық және техникалық көмектің долларлық көлемі (соның ішінде Солтүстік-Оңтүстік, Оңтүстік-Оңтүстік және үш жақты ынтымақтастық аясында көрсетілетін көмек)",
+          "title": "Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries",
           "description": "",
           "keywords": "",
           "href": "/17-9-1",
           "status": "notstarted"
         },{
           "id": "17-1-1",
-          "title": "Көздер бойынша бөліністегі ЖІӨ-ге пайыздық қатынастағы мемлекеттік кірістердің жалпы көлемі",
+          "title": "Total government revenue as a proportion of GDP, by source",
           "description": "",
           "keywords": "",
           "href": "/17-1-1",
           "status": "notstarted"
         },{
           "id": "17-6-2",
-          "title": "Кең жолақты Ғаламтордың стандартты абоненттерінің саны, жылдамдық бойынша топтастыру",
+          "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed",
           "description": "",
           "keywords": "",
           "href": "/17-6-2",
           "status": "notstarted"
         },{
           "id": "17-5-1",
-          "title": "Аз дамыған елдердің мүдделерінде инвестицияларды қолдану тәртіптері қабылданған және қолданылатын елдер саны",
+          "title": "Number of countries that adopt and implement investment promotion regimes for least developed countries",
           "description": "",
           "keywords": "",
           "href": "/17-5-1",
           "status": "notstarted"
         },{
           "id": "17-13-1",
-          "title": "Макроэкономикалық көрсеткіштер панелі",
+          "title": "Macroeconomic Dashboard",
           "description": "",
           "keywords": "",
           "href": "/17-13-1",
           "status": "notstarted"
         },{
           "id": "17-4-1",
-          "title": "ЖІӨ-ге пайыздық қатынастағы мемлекеттік борышқа қызмет көрсету шығындары (алдыңғы редакция: тауарлар мен қызметтер экспортына)",
+          "title": "Debt service as a proportion of exports of goods and services",
           "description": "",
           "keywords": "",
           "href": "/17-4-1",
           "status": "notstarted"
         },{
           "id": "17-18-1",
-          "title": "Ұлттық деңгейде әзірленген, Ресми стастистиканың негізін қалайтын қағидаттарына сәйкес келетін тиісті белгілер бойынша толық дезагрегатталған тұрақты даму көрсеткіштерінің үлесі",
+          "title": "Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics",
           "description": "",
           "keywords": "",
           "href": "/17-18-1",
           "status": "notstarted"
         },{
           "id": "17-11-1",
-          "title": "Әлемдік экспорттағы дамушы елдердің және аз дамыған елдердің үлесі",
+          "title": "Developing countries’ and least developed countries’ share of global exports",
           "description": "",
           "keywords": "",
           "href": "/17-11-1",
           "status": "notstarted"
         },{
           "id": "17-7-1",
-          "title": "Экологиялық қауіпсіз технологияларды әзірлеу, тапсыру, тарату және меңгеруге жәрдемдесу мақсатында дамушы елдерге бекітілген қаржыландырудың жалпы сомасы",
+          "title": "Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",
           "description": "",
           "keywords": "",
           "href": "/17-7-1",
           "status": "notstarted"
         },{
           "id": "17-1-2",
-          "title": "Ішкі салықтармен қаржыландырылатын ұлттық бюджет үлесі",
+          "title": "Proportion of domestic budget funded by domestic taxes",
           "description": "",
           "keywords": "",
           "href": "/17-1-2",
           "status": "notstarted"
         },{
           "id": "17-2-1",
-          "title": "Донорлардың – ЭЫДҰ дамуына Комитеті мүшелерінің жалпы ұлттық табысына пайыздық қатынастағы даму мақсатындағы ресми көмектің (жиынтық, сондай-ақ аз дамыған елдерге бөлінетін) таза көлемі",
+          "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",
           "description": "",
           "keywords": "",
           "href": "/17-2-1",
           "status": "notstarted"
         },{
           "id": "17-18-2",
-          "title": "Ресми статистиканың негізін қалайтын қағидаттарға сәйкес келетін ұлттық статистикалық заңнамасы бар елдер саны",
+          "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics",
           "description": "",
           "keywords": "",
           "href": "/17-18-2",
           "status": "notstarted"
         },{
           "id": "17-3-2",
-          "title": "ЖІӨ-ге пайыздық қатынастағы аудару көлемдері (АҚШ долларында)",
+          "title": "Volume of remittances (in United States dollars) as a proportion of total GDP",
           "description": "",
           "keywords": "",
           "href": "/17-3-2",
           "status": "notstarted"
         },{
           "id": "17-3-1",
-          "title": "Тікелей шетел инвестициялары (ТШИ), ұлттық жиынтық бюджетке пайыздық қатынастағы дамыту мақсатында ресми көмек беру және Оңтүстік-Оңтүстік ынтымақтастығы",
+          "title": "Foreign direct investments (FDI), official development assistance and South-South Cooperation as a proportion of total domestic budget",
           "description": "",
           "keywords": "",
           "href": "/17-3-1",
           "status": "notstarted"
         },{
           "id": "17-19-1",
-          "title": "Статистика саласындағы дамушы елдердің әлеуетін арттыруға бөлінген барлық ресурстардың долларлық құны",
+          "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries",
           "description": "",
           "keywords": "",
           "href": "/17-19-1",
           "status": "notstarted"
         },{
           "id": "17-10-1",
-          "title": "Тарифтердің әлемдік орташа салмақталған деңгейі",
+          "title": "Worldwide weighted tariff-average",
           "description": "",
           "keywords": "",
           "href": "/17-10-1",
           "status": "notstarted"
         },{
           "id": "17-19-2",
-          "title": "Соңғы 10 жыл ішінде кем дегенде бір халық және тұрғын қорының санағын өткізген және b) оқиғалардың 100 пайызында тууды тіркеу және олардың 80 пайызында өлімді тіркеу мақсаттарына жеткен елдер үлесі",
+          "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration",
           "description": "",
           "keywords": "",
           "href": "/17-19-2",
           "status": "notstarted"
         },{
           "id": "17-6-1",
-          "title": "Ынтымақтастық түрлерінің бөлінісіндегі елдер арасындағы келісімдер мен ғылыми және/немесе техникалық ынтымақтастық бағдарламаларының саны",
+          "title": "Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation",
           "description": "",
           "keywords": "",
           "href": "/17-6-1",
           "status": "notstarted"
         },{
           "id": "17-8-1",
-          "title": "Интернетті пайдаланатын халық үлесі",
+          "title": "Proportion of individuals using the Internet",
           "description": "",
           "keywords": "",
           "href": "/17-8-1",
