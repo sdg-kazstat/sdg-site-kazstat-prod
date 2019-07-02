@@ -303,7 +303,7 @@
           "status": "complete"
         },{
           "id": "3-2-2-1",
-          "title": "national_indicators.3-2-2-1.title",
+          "title": "Нәрестелік өлім-жітім коэффициенті",
           "description": "",
           "keywords": "",
           "href": "/3-2-2-1",
@@ -407,7 +407,7 @@
       "title": "Ауқымды және әділетті сапалы білім беруді қамтамасыз ету және барлығы үшін бүкіл өмір бойы оқу мүмкіндігін көтермелеу",
       "indicators": [{
           "id": "4-5-1-4",
-          "title": "national_indicators.4-5-1-4.title",
+          "title": "Ерекше білім беру қажеттіліктерімен  студенттерді үшін оқыту кедергісіз қол жеткізу және тең жағдай жасаған ЖОО ұйымдарының үлесі.",
           "description": "",
           "keywords": "",
           "href": "/4-5-1-4",
@@ -421,14 +421,14 @@
           "status": "complete"
         },{
           "id": "4-5-1-2",
-          "title": "national_indicators.4-5-1-2.title",
+          "title": "Инклюзивті білім беру үшін жағдайлар жасаған мектептер үлесі",
           "description": "",
           "keywords": "",
           "href": "/4-5-1-2",
           "status": "complete"
         },{
           "id": "4-2-2-1",
-          "title": "national_indicators.4-2-2-1.title",
+          "title": "Мектепке даярлық (алдыңғы жылы мектеп алды білім беру мекемелеріне қатысқан, бастауыш мектептің 1-сыныбына баратын балалардың проценттік  үлесі)",
           "description": "",
           "keywords": "",
           "href": "/4-2-2-1",
@@ -491,14 +491,14 @@
           "status": "complete"
         },{
           "id": "4-5-1-3",
-          "title": "national_indicators.4-5-1-3.title",
+          "title": "Ерекше білім беру қажеттіліктерімен студенттер үшін кедергісіз қол жеткізуді және тең жағдай жасаған ТжКБ ұйымдарының үлесі",
           "description": "",
           "keywords": "",
           "href": "/4-5-1-3",
           "status": "complete"
         },{
           "id": "4-5-1-1",
-          "title": "national_indicators.4-5-1-1.title",
+          "title": "Ерекше білім беру қажеттіліктерімен балаларды  тәрбиелеу және оқыту жағдайын жасаған мектеп алды ұйымдардың үлесі.",
           "description": "",
           "keywords": "",
           "href": "/4-5-1-1",
@@ -574,7 +574,7 @@
           "status": "complete"
         },{
           "id": "5-3-1-1",
-          "title": "national_indicators.5-3-1-1.title",
+          "title": "15 жасқа дейін ресми некеге тұрған әйелдер үлесі",
           "description": "",
           "keywords": "",
           "href": "/5-3-1-1",
@@ -609,7 +609,7 @@
           "status": "notstarted"
         },{
           "id": "5-2-1-1",
-          "title": "national_indicators.5-2-1-1.title",
+          "title": "Әйелдерге қатысты тіркелген тұрмыстық зорлық-зомбылық оқиғаларының төмендеуі",
           "description": "",
           "keywords": "",
           "href": "/5-2-1-1",
@@ -637,14 +637,14 @@
           "status": "notstarted"
         },{
           "id": "5-3-1-2",
-          "title": "national_indicators.5-3-1-2.title",
+          "title": "18 жасқа дейін ресми некеге тұрған әйелдер үлесі",
           "description": "",
           "keywords": "",
           "href": "/5-3-1-2",
           "status": "complete"
         },{
           "id": "5-2-1-2",
-          "title": "national_indicators.5-2-1-2.title",
+          "title": "Балаларға қатысты тіркелген  зорлық-зомбылық оқиғаларының төмендеуі",
           "description": "",
           "keywords": "",
           "href": "/5-2-1-2",
@@ -747,7 +747,7 @@
           "status": "complete"
         },{
           "id": "7-b-1-1",
-          "title": "national_indicators.7-b-1-1.title",
+          "title": "Энергиялық тиімділік жүйесін енгізетін кәсіпорындар үлесі",
           "description": "",
           "keywords": "",
           "href": "/7-b-1-1",
@@ -789,14 +789,14 @@
           "status": "complete"
         },{
           "id": "7-1-2-1",
-          "title": "national_indicators.7-1-2-1.title",
+          "title": "Халықтың газдандыру деңгейі",
           "description": "",
           "keywords": "",
           "href": "/7-1-2-1",
           "status": "complete"
         },{
           "id": "7-1-2-2",
-          "title": "national_indicators.7-1-2-2.title",
+          "title": "Жаңғыратын энергия көздерін : 1) күн энергиясы, 2) жел энергиясы, 3) органикалық қалдықтардан жасалған отынды пайдаланатын үй шаруашылықтарының үлесі",
           "description": "",
           "keywords": "",
           "href": "/7-1-2-2",
@@ -948,7 +948,7 @@
           "status": "complete"
         },{
           "id": "9-5-1-1",
-          "title": "national_indicators.9-5-1-1.title",
+          "title": "ҒЗТКЖ-ға жалпы шығындардың жалпы көлеміндегі бизнес шығыстарының үлесі",
           "description": "",
           "keywords": "",
           "href": "/9-5-1-1",
@@ -962,7 +962,7 @@
           "status": "complete"
         },{
           "id": "9-2-1-1",
-          "title": "national_indicators.9-2-1-1.title",
+          "title": "Өңдеуші өнекәсіптегі еңбек өнімділігінің өсуі",
           "description": "",
           "keywords": "",
           "href": "/9-2-1-1",
@@ -983,7 +983,7 @@
           "status": "complete"
         },{
           "id": "9-2-1-2",
-          "title": "national_indicators.9-2-1-2.title",
+          "title": "Өндіруші өнеркәсіп өнімі экспорты құнының өсуі",
           "description": "",
           "keywords": "",
           "href": "/9-2-1-2",
@@ -1149,7 +1149,7 @@
           "status": "notstarted"
         },{
           "id": "11-2-1-2",
-          "title": "national_indicators.11-2-1-2.title",
+          "title": "Мүгедектігі бар адамдардың қажеттіліктері үшін бейімделген қоғамдық көлік құралдарының үлесі",
           "description": "",
           "keywords": "",
           "href": "/11-2-1-2",
@@ -1198,7 +1198,7 @@
           "status": "notstarted"
         },{
           "id": "11-2-1-1",
-          "title": "national_indicators.11-2-1-1.title",
+          "title": "Жақсы және қанағаттанарлық жағдайдағы жергілікті маңыздағы жолдар үлесі",
           "description": "",
           "keywords": "",
           "href": "/11-2-1-1",
@@ -1260,7 +1260,7 @@
           "status": "complete"
         },{
           "id": "12-5-1-1",
-          "title": "national_indicators.12-5-1-1.title",
+          "title": "Қатты тұрмыстық қатты қалдықтарды олардың пайда болуына қайта өңдеу және кәдеге жарату үлесі",
           "description": "",
           "keywords": "",
           "href": "/12-5-1-1",
@@ -1530,7 +1530,7 @@
           "status": "notstarted"
         },{
           "id": "15-2-1-1",
-          "title": "national_indicators.15-2-1-1.title",
+          "title": "Ормандарда жердегі биомасса қоры",
           "description": "",
           "keywords": "",
           "href": "/15-2-1-1",
@@ -1641,7 +1641,7 @@
           "status": "complete"
         },{
           "id": "16-1-4-1",
-          "title": "national_indicators.16-1-4-1.title",
+          "title": "Көшеде жасалған қылмыстардың үлестік салмағы",
           "description": "",
           "keywords": "",
           "href": "/16-1-4-1",
@@ -1711,14 +1711,14 @@
           "status": "complete"
         },{
           "id": "16-3-2-1",
-          "title": "national_indicators.16-3-2-1.title",
+          "title": "Мемлекеттен тегін кепілді заң көмегін алған адамдар саны",
           "description": "",
           "keywords": "",
           "href": "/16-3-2-1",
           "status": "complete"
         },{
           "id": "16-4-2-1",
-          "title": "national_indicators.16-4-2-1.title",
+          "title": "Қылмыстық құқық бұзушылықтардың жалпы санынан ұйымдасқан қылмыстық топтың құрамында жасалған жасаған қылмыстардың үлесі",
           "description": "",
           "keywords": "",
           "href": "/16-4-2-1",
@@ -1781,14 +1781,14 @@
           "status": "complete"
         },{
           "id": "16-5-2-1",
-          "title": "national_indicators.16-5-2-1.title",
+          "title": "Халықтың сыбайлас жемқорлық деңгейін сезінуі",
           "description": "",
           "keywords": "",
           "href": "/16-5-2-1",
           "status": "complete"
         },{
           "id": "16-6-2-1",
-          "title": "national_indicators.16-6-2-1.title",
+          "title": "Өтініштер бойынша тексеру кезінде анықталған бұзушылықтардың қорытындылары бойынша қызметті алушылардың қалпына келтірілген құқықтарының үлесі",
           "description": "",
           "keywords": "",
           "href": "/16-6-2-1",
@@ -1850,7 +1850,7 @@
           "status": "complete"
         },{
           "id": "17-3-1-1",
-          "title": "national_indicators.17-3-1-1.title",
+          "title": "Қазақстандық тікелей инвесторлардан шетелде тікелей инвестициялардың жалпы ағымының ЖІӨ-ге қатынасы, процентпен",
           "description": "",
           "keywords": "",
           "href": "/17-3-1-1",
@@ -1899,7 +1899,7 @@
           "status": "complete"
         },{
           "id": "17-3-1-2",
-          "title": "national_indicators.17-3-1-2.title",
+          "title": "Тікелей шетелдік инвесторлардан Қазақстанға тікелей инвестициялардың жалпы ағынының қатынасы",
           "description": "",
           "keywords": "",
           "href": "/17-3-1-2",
